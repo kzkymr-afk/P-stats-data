@@ -1,7 +1,7 @@
 [
   {
     "name": "e ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
-    "machineId": "5008",
+    "machineId": "05008",
     "manufacturer": "京楽",
     "probability": "1/239.7",
     "machineTypeRaw": "デジパチ",
@@ -18,7 +18,7 @@
   },
   {
     "name": "e バイオハザード6",
-    "machineId": "5003",
+    "machineId": "05003",
     "manufacturer": "七匠",
     "probability": "1/159",
     "machineTypeRaw": "デジパチ",
@@ -35,9 +35,9 @@
   },
   {
     "name": "デカスタP戦国無双100ver.",
-    "machineId": "5007",
+    "machineId": "05007",
     "manufacturer": "ニューギン",
-    "probability": "2026/04",
+    "probability": "",
     "machineTypeRaw": "デジパチ",
     "introductionDateRaw": "2026/05/11",
     "status": "完了",
@@ -52,7 +52,7 @@
   },
   {
     "name": "Pクイーンズブレイド奈落ナナエル79Ver.",
-    "machineId": "4980",
+    "machineId": "04980",
     "manufacturer": "高尾",
     "probability": "1/79.9",
     "machineTypeRaw": "デジパチ",
@@ -69,7 +69,7 @@
   },
   {
     "name": "PフィーバークィーンⅡ",
-    "machineId": "4995",
+    "machineId": "04995",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -86,7 +86,7 @@
   },
   {
     "name": "eルパン三世VSキャッツ・アイ 157ver. 極限突破ブッた斬り 7500",
-    "machineId": "4999",
+    "machineId": "04999",
     "manufacturer": "アムテックス",
     "probability": "1/157.9",
     "machineTypeRaw": "デジパチ",
@@ -103,7 +103,7 @@
   },
   {
     "name": "eカケグルイ 7500ver",
-    "machineId": "5004",
+    "machineId": "05004",
     "manufacturer": "D-light",
     "probability": "1/204",
     "machineTypeRaw": "デジパチ",
@@ -120,7 +120,7 @@
   },
   {
     "name": "eカケグルイ 219ver",
-    "machineId": "5005",
+    "machineId": "05005",
     "manufacturer": "D-light",
     "probability": "1/219",
     "machineTypeRaw": "デジパチ",
@@ -137,7 +137,7 @@
   },
   {
     "name": "eひきこまり吸血姫の悶々",
-    "machineId": "5006",
+    "machineId": "05006",
     "manufacturer": "藤商事",
     "probability": "1/129",
     "machineTypeRaw": "デジパチ",
@@ -154,7 +154,7 @@
   },
   {
     "name": "eまわるん超ワープ ギンギラパラダイス VIVA FESTA",
-    "machineId": "4993",
+    "machineId": "04993",
     "manufacturer": "サンスリー",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -171,7 +171,7 @@
   },
   {
     "name": "eリング 最恐領域",
-    "machineId": "4994",
+    "machineId": "04994",
     "manufacturer": "オレンジ",
     "probability": "1/399",
     "machineTypeRaw": "デジパチ",
@@ -188,7 +188,7 @@
   },
   {
     "name": "e86-エイティシックス-",
-    "machineId": "4985",
+    "machineId": "04985",
     "manufacturer": "アムテックス",
     "probability": "1/239.1",
     "machineTypeRaw": "デジパチ",
@@ -205,7 +205,7 @@
   },
   {
     "name": "eフィーバーキン肉マン",
-    "machineId": "4958",
+    "machineId": "04958",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -222,7 +222,7 @@
   },
   {
     "name": "eリコリス・リコイル",
-    "machineId": "4982",
+    "machineId": "04982",
     "manufacturer": "ニューギン",
     "probability": "1/259.7",
     "machineTypeRaw": "デジパチ",
@@ -239,7 +239,7 @@
   },
   {
     "name": "e転生したらスライムだった件2",
-    "machineId": "4990",
+    "machineId": "04990",
     "manufacturer": "サンセイR＆D",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -256,7 +256,7 @@
   },
   {
     "name": "P ウルトラマンメビウス デカヘソ319",
-    "machineId": "4991",
+    "machineId": "04991",
     "manufacturer": "OK!!",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -273,7 +273,7 @@
   },
   {
     "name": "e転生したらスライムだった件2",
-    "machineId": "4990",
+    "machineId": "04990",
     "manufacturer": "サンセイR＆D",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -290,7 +290,7 @@
   },
   {
     "name": "PAコマコマ倶楽部 with 坂本冬美 89確変ループ10ラウンド極",
-    "machineId": "4989",
+    "machineId": "04989",
     "manufacturer": "豊丸",
     "probability": "1/89.8",
     "machineTypeRaw": "デジパチ",
@@ -307,7 +307,7 @@
   },
   {
     "name": "P にゃんこ大戦争 多様性のネコ 神さまにおまかせ 88ver.",
-    "machineId": "4988",
+    "machineId": "04988",
     "manufacturer": "京楽",
     "probability": "1/88.9",
     "machineTypeRaw": "デジパチ",
@@ -324,7 +324,7 @@
   },
   {
     "name": "e 終末のワルキューレ",
-    "machineId": "4963",
+    "machineId": "04963",
     "manufacturer": "サミー",
     "probability": "1/219.9",
     "machineTypeRaw": "デジパチ",
@@ -341,7 +341,7 @@
   },
   {
     "name": "eラグナドール 妖しき皇帝と終焉の夜叉姫",
-    "machineId": "4962",
+    "machineId": "04962",
     "manufacturer": "メーシー",
     "probability": "1/239.5",
     "machineTypeRaw": "デジパチ",
@@ -358,7 +358,7 @@
   },
   {
     "name": "スマパチ SSSS.GRIDMAN メガSTART 159ver.",
-    "machineId": "4978",
+    "machineId": "04978",
     "manufacturer": "七匠",
     "probability": "1/159.8",
     "machineTypeRaw": "デジパチ",
@@ -375,7 +375,7 @@
   },
   {
     "name": "e 乃木坂46 Ⅱ SWEET Version",
-    "machineId": "4976",
+    "machineId": "04976",
     "manufacturer": "京楽",
     "probability": "1/129.9",
     "machineTypeRaw": "デジパチ",
@@ -392,7 +392,7 @@
   },
   {
     "name": "P モモキュンソード 速撃99ver.",
-    "machineId": "4975",
+    "machineId": "04975",
     "manufacturer": "ソフィア",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -409,7 +409,7 @@
   },
   {
     "name": "Pえとたま2 神祭 干支甘",
-    "machineId": "4942",
+    "machineId": "04942",
     "manufacturer": "メーシー",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -426,7 +426,7 @@
   },
   {
     "name": "PキングモンスターRUSH 67Ver.",
-    "machineId": "4977",
+    "machineId": "04977",
     "manufacturer": "竹屋",
     "probability": "1/67.6",
     "machineTypeRaw": "デジパチ",
@@ -443,7 +443,7 @@
   },
   {
     "name": "PA戦国乙女7 終焉の関ヶ原 ときめき78バージョン",
-    "machineId": "4979",
+    "machineId": "04979",
     "manufacturer": "アムテックス アムテックス",
     "probability": "1/78.21",
     "machineTypeRaw": "デジパチ",
@@ -460,7 +460,7 @@
   },
   {
     "name": "P Re:ゼロから始める異世界生活 season2 249ver.",
-    "machineId": "4972",
+    "machineId": "04972",
     "manufacturer": "大都技研",
     "probability": "1/249.9",
     "machineTypeRaw": "デジパチ",
@@ -477,7 +477,7 @@
   },
   {
     "name": "P Re:ゼロから始める異世界生活 season2 129ver.",
-    "machineId": "4971",
+    "machineId": "04971",
     "manufacturer": "大都技研",
     "probability": "1/129.9",
     "machineTypeRaw": "デジパチ",
@@ -494,7 +494,7 @@
   },
   {
     "name": "eワンパンマン2～正義執行",
-    "machineId": "4969",
+    "machineId": "04969",
     "manufacturer": "ニューギン",
     "probability": "1/179.55",
     "machineTypeRaw": "デジパチ",
@@ -511,7 +511,7 @@
   },
   {
     "name": "e牙狼11〜冴島大河〜魔戒BURST Ver.",
-    "machineId": "4968",
+    "machineId": "04968",
     "manufacturer": "サンセイR＆D",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -528,7 +528,7 @@
   },
   {
     "name": "P攻殻機動隊SAC_2045 LT99ver.",
-    "machineId": "4967",
+    "machineId": "04967",
     "manufacturer": "D-light",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -545,7 +545,7 @@
   },
   {
     "name": "e 魔法少女まどか☆マギカ3 時間遡行〜始まりの願い〜",
-    "machineId": "4966",
+    "machineId": "04966",
     "manufacturer": "京楽",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -562,7 +562,7 @@
   },
   {
     "name": "P痛いのは嫌なので防御力に極振りしたいと思います。 極振り129ver",
-    "machineId": "4957",
+    "machineId": "04957",
     "manufacturer": "藤商事",
     "probability": "1/129",
     "machineTypeRaw": "デジパチ",
@@ -579,7 +579,7 @@
   },
   {
     "name": "P戦国乙女7 終焉の関ヶ原 99ver.",
-    "machineId": "4955",
+    "machineId": "04955",
     "manufacturer": "アムテックス",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -596,7 +596,7 @@
   },
   {
     "name": "eアクダマドライブ",
-    "machineId": "4954",
+    "machineId": "04954",
     "manufacturer": "三洋",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -613,7 +613,7 @@
   },
   {
     "name": "eフィーバーダンベル何キロ持てる？2",
-    "machineId": "4946",
+    "machineId": "04946",
     "manufacturer": "SANKYO",
     "probability": "1/149.9",
     "machineTypeRaw": "デジパチ",
@@ -630,7 +630,7 @@
   },
   {
     "name": "e 甲鉄城のカバネリ2 咲かせや燦然",
-    "machineId": "4935",
+    "machineId": "04935",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -647,7 +647,7 @@
   },
   {
     "name": "e異世界でチート能力を手にした俺は現実世界をも無双する 〜レベルアップは人生を変えた〜",
-    "machineId": "4947",
+    "machineId": "04947",
     "manufacturer": "藤商事",
     "probability": "1/179",
     "machineTypeRaw": "デジパチ",
@@ -664,7 +664,7 @@
   },
   {
     "name": "e 真・北斗無双 第5章 夢幻闘双",
-    "machineId": "4927",
+    "machineId": "04927",
     "manufacturer": "サミー",
     "probability": "1/159.8",
     "machineTypeRaw": "デジパチ",
@@ -681,7 +681,7 @@
   },
   {
     "name": "eフィーバーBASTARD!! -暗黒の破壊神-",
-    "machineId": "4923",
+    "machineId": "04923",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -698,7 +698,7 @@
   },
   {
     "name": "PA乗物娘 WITH CYBER JAPAN DANCERS 2nd season 59ver.",
-    "machineId": "4960",
+    "machineId": "04960",
     "manufacturer": "ニューギン",
     "probability": "1/59.95",
     "machineTypeRaw": "デジパチ",
@@ -715,7 +715,7 @@
   },
   {
     "name": "e AぷらねっとアポロGO",
-    "machineId": "4959",
+    "machineId": "04959",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/99",
     "machineTypeRaw": "デジパチ",
@@ -732,7 +732,7 @@
   },
   {
     "name": "P冴えない彼女の育てかた 99ver.",
-    "machineId": "4953",
+    "machineId": "04953",
     "manufacturer": "大都技研",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -749,7 +749,7 @@
   },
   {
     "name": "P 俺の妹がこんなに可愛いわけがない。攻略!!スキップ159ver.",
-    "machineId": "4952",
+    "machineId": "04952",
     "manufacturer": "京楽",
     "probability": "1/159.9",
     "machineTypeRaw": "デジパチ",
@@ -766,7 +766,7 @@
   },
   {
     "name": "PA乗物娘 WITH CYBER JAPAN DANCERS 2nd season 77ver.",
-    "machineId": "4951",
+    "machineId": "04951",
     "manufacturer": "ニューギン",
     "probability": "1/77.10",
     "machineTypeRaw": "デジパチ",
@@ -783,7 +783,7 @@
   },
   {
     "name": "P黄門ちゃま寿限無 99ver.",
-    "machineId": "4945",
+    "machineId": "04945",
     "manufacturer": "平和",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -800,7 +800,7 @@
   },
   {
     "name": "P黄門ちゃま寿限無 LLサイズ 259ver.",
-    "machineId": "4944",
+    "machineId": "04944",
     "manufacturer": "平和",
     "probability": "1/259.0",
     "machineTypeRaw": "デジパチ",
@@ -817,7 +817,7 @@
   },
   {
     "name": "e範馬刃牙 199ver.",
-    "machineId": "4933",
+    "machineId": "04933",
     "manufacturer": "アムテックス",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -834,7 +834,7 @@
   },
   {
     "name": "e ULTRAMAN 4500 超ライト",
-    "machineId": "4949",
+    "machineId": "04949",
     "manufacturer": "OK!!",
     "probability": "1/111.9",
     "machineTypeRaw": "デジパチ",
@@ -851,7 +851,7 @@
   },
   {
     "name": "P閃乱カグラ189大入りver.",
-    "machineId": "4948",
+    "machineId": "04948",
     "manufacturer": "D-light",
     "probability": "1/189.4",
     "machineTypeRaw": "デジパチ",
@@ -868,7 +868,7 @@
   },
   {
     "name": "eようこそ実力至上主義の教室へ",
-    "machineId": "4936",
+    "machineId": "04936",
     "manufacturer": "サンセイR＆D",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -885,7 +885,7 @@
   },
   {
     "name": "e吉宗 極乗3000ver.",
-    "machineId": "4932",
+    "machineId": "04932",
     "manufacturer": "大都技研",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -902,7 +902,7 @@
   },
   {
     "name": "Pフィーバー彼女、お借りします LT-Light ver.",
-    "machineId": "4916",
+    "machineId": "04916",
     "manufacturer": "SANKYO",
     "probability": "1/189.7",
     "machineTypeRaw": "デジパチ",
@@ -919,7 +919,7 @@
   },
   {
     "name": "e ソードアート・オンライン 閃光の軌跡 99Ver.",
-    "machineId": "4940",
+    "machineId": "04940",
     "manufacturer": "京楽",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -936,7 +936,7 @@
   },
   {
     "name": "e ゴジラ対エヴァンゲリオン2 超デカゴールド",
-    "machineId": "4939",
+    "machineId": "04939",
     "manufacturer": "ビスティ",
     "probability": "1/299.9",
     "machineTypeRaw": "デジパチ",
@@ -953,7 +953,7 @@
   },
   {
     "name": "P ゴジラ対エヴァンゲリオン2 超デカシルバー",
-    "machineId": "4938",
+    "machineId": "04938",
     "manufacturer": "ビスティ",
     "probability": "1/174.9",
     "machineTypeRaw": "デジパチ",
@@ -970,7 +970,7 @@
   },
   {
     "name": "P リングにかけろ1 129ver.",
-    "machineId": "4937",
+    "machineId": "04937",
     "manufacturer": "ニューギン",
     "probability": "1/129.77",
     "machineTypeRaw": "デジパチ",
@@ -987,7 +987,7 @@
   },
   {
     "name": "P【超甘LT】華牌RR 1/49×99de遊タイム",
-    "machineId": "4934",
+    "machineId": "04934",
     "manufacturer": "豊丸",
     "probability": "1/49.9",
     "machineTypeRaw": "デジパチ",
@@ -1004,7 +1004,7 @@
   },
   {
     "name": "PA清流物語4 ウキウキ79ver.",
-    "machineId": "4919",
+    "machineId": "04919",
     "manufacturer": "サンスリー",
     "probability": "1/79.9",
     "machineTypeRaw": "デジパチ",
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "Pフィーバーうたわれるもの LT-Light ver.",
-    "machineId": "4917",
+    "machineId": "04917",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1038,7 +1038,7 @@
   },
   {
     "name": "e盾の勇者の成り上がり アルティメット199ver.",
-    "machineId": "4910",
+    "machineId": "04910",
     "manufacturer": "サミー",
     "probability": "1/199",
     "machineTypeRaw": "デジパチ",
@@ -1055,7 +1055,7 @@
   },
   {
     "name": "e 新世紀エヴァンゲリオン 〜はじまりの記憶〜",
-    "machineId": "4894",
+    "machineId": "04894",
     "manufacturer": "ビスティ",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -1072,7 +1072,7 @@
   },
   {
     "name": "P少女☆歌劇 レヴュースタァライト 99 LT3000",
-    "machineId": "4915",
+    "machineId": "04915",
     "manufacturer": "豊丸",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "P沖ドキ！ドキドキ弾丸ツアー",
-    "machineId": "4905",
+    "machineId": "04905",
     "manufacturer": "メーシー",
     "probability": "1/22.2",
     "machineTypeRaw": "デジパチ",
@@ -1106,7 +1106,7 @@
   },
   {
     "name": "e地獄少女7500Ver.",
-    "machineId": "4920",
+    "machineId": "04920",
     "manufacturer": "オレンジ",
     "probability": "1/49",
     "machineTypeRaw": "デジパチ",
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "e アズールレーン2 THE ANIMATION 超次元",
-    "machineId": "4918",
+    "machineId": "04918",
     "manufacturer": "京楽",
     "probability": "1/169.9",
     "machineTypeRaw": "デジパチ",
@@ -1140,7 +1140,7 @@
   },
   {
     "name": "e 北斗の拳11 暴凶星",
-    "machineId": "4897",
+    "machineId": "04897",
     "manufacturer": "サミー",
     "probability": "1/399.8",
     "machineTypeRaw": "デジパチ",
@@ -1157,7 +1157,7 @@
   },
   {
     "name": "Pフィーバーからくりサーカス2 Light ver.",
-    "machineId": "4875",
+    "machineId": "04875",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1174,7 +1174,7 @@
   },
   {
     "name": "PA野生の王国Ⅵ",
-    "machineId": "4922",
+    "machineId": "04922",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "P【超甘LT】この素晴らしい世界に祝福を！最終クエスト1/49",
-    "machineId": "4914",
+    "machineId": "04914",
     "manufacturer": "豊丸",
     "probability": "1/49.9",
     "machineTypeRaw": "デジパチ",
@@ -1208,7 +1208,7 @@
   },
   {
     "name": "eうしおととら〜神のせSPEC〜399ver.",
-    "machineId": "4908",
+    "machineId": "04908",
     "manufacturer": "D-light",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "eうしおととら〜神のせSPEC〜150ver.",
-    "machineId": "4907",
+    "machineId": "04907",
     "manufacturer": "D-light",
     "probability": "1/150.31",
     "machineTypeRaw": "デジパチ",
@@ -1242,7 +1242,7 @@
   },
   {
     "name": "PA海物語 極JAPAN Withナギナミ",
-    "machineId": "4899",
+    "machineId": "04899",
     "manufacturer": "三洋",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1259,7 +1259,7 @@
   },
   {
     "name": "Pメイドインアビス 奈落の連環蝕",
-    "machineId": "4882",
+    "machineId": "04882",
     "manufacturer": "メーシー",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -1276,7 +1276,7 @@
   },
   {
     "name": "P Re:ゼロから始める異世界生活 鬼がかり 99ver.",
-    "machineId": "4901",
+    "machineId": "04901",
     "manufacturer": "大都技研",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "e花の慶次〜黄金の一撃",
-    "machineId": "4900",
+    "machineId": "04900",
     "manufacturer": "ニューギン",
     "probability": "1/399.76",
     "machineTypeRaw": "デジパチ",
@@ -1310,7 +1310,7 @@
   },
   {
     "name": "eフィーバーもののがたり",
-    "machineId": "4876",
+    "machineId": "04876",
     "manufacturer": "SANKYO",
     "probability": "1/149.9",
     "machineTypeRaw": "デジパチ",
@@ -1327,7 +1327,7 @@
   },
   {
     "name": "eノーゲーム・ノーライフ 199Ver.",
-    "machineId": "4863",
+    "machineId": "04863",
     "manufacturer": "高尾",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -1344,7 +1344,7 @@
   },
   {
     "name": "P Re:ゼロから始める異世界生活 鬼がかり 199ver.",
-    "machineId": "4902",
+    "machineId": "04902",
     "manufacturer": "大都技研",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "P転生したらスライムだった件129ver.",
-    "machineId": "4890",
+    "machineId": "04890",
     "manufacturer": "サンセイR＆D",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -1378,7 +1378,7 @@
   },
   {
     "name": "e 仮面ライダー電王 デカヘソ239",
-    "machineId": "4889",
+    "machineId": "04889",
     "manufacturer": "京楽",
     "probability": "1/239.9",
     "machineTypeRaw": "デジパチ",
@@ -1395,7 +1395,7 @@
   },
   {
     "name": "eルパン三世VSキャッツ・アイ",
-    "machineId": "4887",
+    "machineId": "04887",
     "manufacturer": "平和",
     "probability": "1/257.9",
     "machineTypeRaw": "デジパチ",
@@ -1412,7 +1412,7 @@
   },
   {
     "name": "PA GoGo富士山",
-    "machineId": "4884",
+    "machineId": "04884",
     "manufacturer": "A-gon",
     "probability": "-",
     "machineTypeRaw": "羽根モノ",
@@ -1429,7 +1429,7 @@
   },
   {
     "name": "e源外伝 EPISODE OF -大龍-",
-    "machineId": "4879",
+    "machineId": "04879",
     "manufacturer": "三洋",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -1446,7 +1446,7 @@
   },
   {
     "name": "P いくさの子 戦極最強ドデカ199ver.",
-    "machineId": "4872",
+    "machineId": "04872",
     "manufacturer": "サミー",
     "probability": "1/199",
     "machineTypeRaw": "デジパチ",
@@ -1463,7 +1463,7 @@
   },
   {
     "name": "eノーゲーム・ノーライフ 319Ver.",
-    "machineId": "4862",
+    "machineId": "04862",
     "manufacturer": "高尾",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -1480,7 +1480,7 @@
   },
   {
     "name": "Pゴッドイーター199ゴッドトリガーVER.",
-    "machineId": "4888",
+    "machineId": "04888",
     "manufacturer": "サンセイR＆D",
     "probability": "1/199.5",
     "machineTypeRaw": "デジパチ",
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Pはねものファインプレー",
-    "machineId": "4878",
+    "machineId": "04878",
     "manufacturer": "マルホン",
     "probability": "-",
     "machineTypeRaw": "羽根モノ",
@@ -1514,7 +1514,7 @@
   },
   {
     "name": "eとある科学の超電磁砲 PHASE NEXT",
-    "machineId": "4874",
+    "machineId": "04874",
     "manufacturer": "オレンジ",
     "probability": "1/169.7",
     "machineTypeRaw": "デジパチ",
@@ -1531,7 +1531,7 @@
   },
   {
     "name": "Pスーパー海物語IN沖縄6",
-    "machineId": "4857",
+    "machineId": "04857",
     "manufacturer": "三洋",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -1548,7 +1548,7 @@
   },
   {
     "name": "デカスタPシュタインズ・ゲート ゼロ まゆしぃば〜じょん",
-    "machineId": "4886",
+    "machineId": "04886",
     "manufacturer": "ニューギン",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "P 冬のソナタ My Memory SWEET Version",
-    "machineId": "4883",
+    "machineId": "04883",
     "manufacturer": "京楽",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1582,7 +1582,7 @@
   },
   {
     "name": "e ベルセルク無双 第2章",
-    "machineId": "4881",
+    "machineId": "04881",
     "manufacturer": "ニューギン",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -1599,7 +1599,7 @@
   },
   {
     "name": "PA義風堂々!!〜兼続と慶次〜3 99ver.",
-    "machineId": "4871",
+    "machineId": "04871",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -1616,7 +1616,7 @@
   },
   {
     "name": "eガールズ＆パンツァー 最終章",
-    "machineId": "4869",
+    "machineId": "04869",
     "manufacturer": "平和",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "e 聖戦士ダンバイン 3 ZEROSONIC",
-    "machineId": "4859",
+    "machineId": "04859",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -1650,7 +1650,7 @@
   },
   {
     "name": "Pフィーバーダンジョンに出会いを求めるのは間違っているだろうか2 LT-Light ver.",
-    "machineId": "4858",
+    "machineId": "04858",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1667,7 +1667,7 @@
   },
   {
     "name": "〜廻るヘソワイド〜PホワイトシャカRUSH",
-    "machineId": "4870",
+    "machineId": "04870",
     "manufacturer": "マルホン",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -1684,7 +1684,7 @@
   },
   {
     "name": "Pルパン三世 ONE COLLECTION 100ver.",
-    "machineId": "4852",
+    "machineId": "04852",
     "manufacturer": "平和",
     "probability": "1/100.1",
     "machineTypeRaw": "デジパチ",
@@ -1701,7 +1701,7 @@
   },
   {
     "name": "eフィーバーブルーロック",
-    "machineId": "4837",
+    "machineId": "04837",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -1718,7 +1718,7 @@
   },
   {
     "name": "デカスタPデビルマン THE FINAL 179ver.",
-    "machineId": "4868",
+    "machineId": "04868",
     "manufacturer": "ニューギン",
     "probability": "1/179.55",
     "machineTypeRaw": "デジパチ",
@@ -1735,7 +1735,7 @@
   },
   {
     "name": "P真・座頭市物語 LT99ver.",
-    "machineId": "4867",
+    "machineId": "04867",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -1752,7 +1752,7 @@
   },
   {
     "name": "P FAIRY TAIL 超一夜Ver.",
-    "machineId": "4866",
+    "machineId": "04866",
     "manufacturer": "藤商事",
     "probability": "1/319",
     "machineTypeRaw": "デジパチ",
@@ -1769,7 +1769,7 @@
   },
   {
     "name": "ぱちんこ シン・エヴァンゲリオン PREMIUM MODEL",
-    "machineId": "4865",
+    "machineId": "04865",
     "manufacturer": "ビスティ",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1786,7 +1786,7 @@
   },
   {
     "name": "P アズールレーン THE ANIMATION 異次元トリガー 79ver.",
-    "machineId": "4864",
+    "machineId": "04864",
     "manufacturer": "京楽",
     "probability": "1/79.9",
     "machineTypeRaw": "デジパチ",
@@ -1803,7 +1803,7 @@
   },
   {
     "name": "eパリピ孔明",
-    "machineId": "4861",
+    "machineId": "04861",
     "manufacturer": "サンセイR＆D",
     "probability": "1/199",
     "machineTypeRaw": "デジパチ",
@@ -1820,7 +1820,7 @@
   },
   {
     "name": "P戦国乙女7 終焉の関ヶ原 LLサイズ 299ver.",
-    "machineId": "4856",
+    "machineId": "04856",
     "manufacturer": "アムテックス",
     "probability": "1/299.2",
     "machineTypeRaw": "デジパチ",
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "デジハネP頭文字D せかんど",
-    "machineId": "4851",
+    "machineId": "04851",
     "manufacturer": "サミー",
     "probability": "1/99",
     "machineTypeRaw": "デジパチ",
@@ -1854,7 +1854,7 @@
   },
   {
     "name": "e女神のカフェテラス",
-    "machineId": "4848",
+    "machineId": "04848",
     "manufacturer": "JFJ",
     "probability": "1/399",
     "machineTypeRaw": "デジパチ",
@@ -1871,7 +1871,7 @@
   },
   {
     "name": "eGODZILLA7 TYPE-CRASH",
-    "machineId": "4838",
+    "machineId": "04838",
     "manufacturer": "ニューギン",
     "probability": "1/229.95",
     "machineTypeRaw": "デジパチ",
@@ -1888,7 +1888,7 @@
   },
   {
     "name": "P【超甘LT】豊丸のとあるパチンコにしみけん参戦 感度UP1/39",
-    "machineId": "4832",
+    "machineId": "04832",
     "manufacturer": "豊丸",
     "probability": "1/39.9",
     "machineTypeRaw": "デジパチ",
@@ -1905,7 +1905,7 @@
   },
   {
     "name": "e牙狼12黄金騎士極限",
-    "machineId": "4846",
+    "machineId": "04846",
     "manufacturer": "サンセイR＆D",
     "probability": "1/349.99",
     "machineTypeRaw": "デジパチ",
@@ -1922,7 +1922,7 @@
   },
   {
     "name": "e真・一騎当千〜軍神覚醒〜396ver.",
-    "machineId": "4845",
+    "machineId": "04845",
     "manufacturer": "D-light",
     "probability": "1/396.1",
     "machineTypeRaw": "デジパチ",
@@ -1939,7 +1939,7 @@
   },
   {
     "name": "e真・一騎当千〜軍神覚醒〜319大入りver.",
-    "machineId": "4844",
+    "machineId": "04844",
     "manufacturer": "D-light",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -1956,7 +1956,7 @@
   },
   {
     "name": "e黄門ちゃま寿限無 LLサイズ",
-    "machineId": "4835",
+    "machineId": "04835",
     "manufacturer": "平和",
     "probability": "1/399.8",
     "machineTypeRaw": "デジパチ",
@@ -1973,7 +1973,7 @@
   },
   {
     "name": "Pフィーバー戦姫絶唱シンフォギア4 LT-Light ver.",
-    "machineId": "4827",
+    "machineId": "04827",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -1990,7 +1990,7 @@
   },
   {
     "name": "Pフィーバー戦姫絶唱シンフォギア4 Light ver.",
-    "machineId": "4826",
+    "machineId": "04826",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2007,7 +2007,7 @@
   },
   {
     "name": "Pクイーンズブレイド奈落5400",
-    "machineId": "4823",
+    "machineId": "04823",
     "manufacturer": "高尾",
     "probability": "1/319.2",
     "machineTypeRaw": "デジパチ",
@@ -2024,7 +2024,7 @@
   },
   {
     "name": "eシャーマンキング でっけぇえなver.",
-    "machineId": "4820",
+    "machineId": "04820",
     "manufacturer": "メーシー",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -2041,7 +2041,7 @@
   },
   {
     "name": "eシャーマンキング",
-    "machineId": "4819",
+    "machineId": "04819",
     "manufacturer": "メーシー",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -2058,7 +2058,7 @@
   },
   {
     "name": "Pワイの佐野ラーメン",
-    "machineId": "4840",
+    "machineId": "04840",
     "manufacturer": "A-gon",
     "probability": "1/24.3",
     "machineTypeRaw": "デジパチ",
@@ -2075,7 +2075,7 @@
   },
   {
     "name": "PAコマコマ倶楽部 with 坂本冬美 89STver.",
-    "machineId": "4839",
+    "machineId": "04839",
     "manufacturer": "豊丸",
     "probability": "1/89.8",
     "machineTypeRaw": "デジパチ",
@@ -2092,7 +2092,7 @@
   },
   {
     "name": "e マギアレコード 魔法少女まどか☆マギカ外伝",
-    "machineId": "4836",
+    "machineId": "04836",
     "manufacturer": "京楽",
     "probability": "1/399",
     "machineTypeRaw": "デジパチ",
@@ -2109,7 +2109,7 @@
   },
   {
     "name": "デカスタe花の慶次〜傾奇一転",
-    "machineId": "4822",
+    "machineId": "04822",
     "manufacturer": "ニューギン",
     "probability": "1/348.60",
     "machineTypeRaw": "デジパチ",
@@ -2126,7 +2126,7 @@
   },
   {
     "name": "eフィーバー炎炎ノ消防隊2 紅丸ver.",
-    "machineId": "4811",
+    "machineId": "04811",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -2143,7 +2143,7 @@
   },
   {
     "name": "e東京リベンジャーズ",
-    "machineId": "4796",
+    "machineId": "04796",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -2160,7 +2160,7 @@
   },
   {
     "name": "P CYBORG009 RULE OF SACRIFICE LT99ver.",
-    "machineId": "4829",
+    "machineId": "04829",
     "manufacturer": "ニューギン",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2177,7 +2177,7 @@
   },
   {
     "name": "e 犬夜叉3.0",
-    "machineId": "4828",
+    "machineId": "04828",
     "manufacturer": "D-light",
     "probability": "1/399.2",
     "machineTypeRaw": "デジパチ",
@@ -2194,7 +2194,7 @@
   },
   {
     "name": "Pフィーバー機動戦士ガンダムユニコーン再来 99ver.",
-    "machineId": "4825",
+    "machineId": "04825",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2211,7 +2211,7 @@
   },
   {
     "name": "e一方通行 とある魔術の禁書目録",
-    "machineId": "4816",
+    "machineId": "04816",
     "manufacturer": "JFJ",
     "probability": "1/539",
     "machineTypeRaw": "デジパチ",
@@ -2228,7 +2228,7 @@
   },
   {
     "name": "e冒険島",
-    "machineId": "4815",
+    "machineId": "04815",
     "manufacturer": "三洋",
     "probability": "1/155.2",
     "machineTypeRaw": "デジパチ",
@@ -2245,7 +2245,7 @@
   },
   {
     "name": "eフィーバー炎炎ノ消防隊2 シンラver.",
-    "machineId": "4810",
+    "machineId": "04810",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -2262,7 +2262,7 @@
   },
   {
     "name": "Pドラムだ!金ドン 花火外伝99ver.",
-    "machineId": "4802",
+    "machineId": "04802",
     "manufacturer": "ミズホ",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -2279,7 +2279,7 @@
   },
   {
     "name": "PLT激デジ ジューシーハニー極嬢",
-    "machineId": "4818",
+    "machineId": "04818",
     "manufacturer": "サンセイR＆D",
     "probability": "1/77.7",
     "machineTypeRaw": "デジパチ",
@@ -2296,7 +2296,7 @@
   },
   {
     "name": "e 新・必殺仕置人 超斬撃99",
-    "machineId": "4817",
+    "machineId": "04817",
     "manufacturer": "京楽",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2313,7 +2313,7 @@
   },
   {
     "name": "デジハネPモンスターハンターライズ",
-    "machineId": "4809",
+    "machineId": "04809",
     "manufacturer": "サミー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2330,7 +2330,7 @@
   },
   {
     "name": "e冴えない彼女の育てかた",
-    "machineId": "4808",
+    "machineId": "04808",
     "manufacturer": "大都技研",
     "probability": "1/179.6",
     "machineTypeRaw": "デジパチ",
@@ -2347,7 +2347,7 @@
   },
   {
     "name": "e範馬刃牙",
-    "machineId": "4804",
+    "machineId": "04804",
     "manufacturer": "アムテックス",
     "probability": "1/499.9",
     "machineTypeRaw": "デジパチ",
@@ -2364,7 +2364,7 @@
   },
   {
     "name": "P緋弾のアリア～緋緋神降臨～88Ver.",
-    "machineId": "4798",
+    "machineId": "04798",
     "manufacturer": "藤商事",
     "probability": "1/88.2",
     "machineTypeRaw": "デジパチ",
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "PA海物語3R3",
-    "machineId": "4795",
+    "machineId": "04795",
     "manufacturer": "三洋",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2398,7 +2398,7 @@
   },
   {
     "name": "デカスタP戦国無双",
-    "machineId": "4787",
+    "machineId": "04787",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -2415,7 +2415,7 @@
   },
   {
     "name": "P DD北斗の拳3 百突99ver.",
-    "machineId": "4786",
+    "machineId": "04786",
     "manufacturer": "高尾",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2432,7 +2432,7 @@
   },
   {
     "name": "eフィーバー彼女、お借りします",
-    "machineId": "4785",
+    "machineId": "04785",
     "manufacturer": "SANKYO",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -2449,7 +2449,7 @@
   },
   {
     "name": "Pフィーバーマクロスフロンティア5 LT-Light ver.",
-    "machineId": "4784",
+    "machineId": "04784",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2466,7 +2466,7 @@
   },
   {
     "name": "〜回るヘソワイド〜Pファンキードクター 11000ver.",
-    "machineId": "4781",
+    "machineId": "04781",
     "manufacturer": "マルホン",
     "probability": "1/79.8",
     "machineTypeRaw": "デジパチ",
@@ -2483,7 +2483,7 @@
   },
   {
     "name": "〜回るヘソワイド〜Pファンキードクター 7200ループver.",
-    "machineId": "4780",
+    "machineId": "04780",
     "manufacturer": "マルホン",
     "probability": "1/69.4",
     "machineTypeRaw": "デジパチ",
@@ -2500,7 +2500,7 @@
   },
   {
     "name": "P 宇宙戦艦ヤマト2202 超波動 森雪 199LT ver.",
-    "machineId": "4794",
+    "machineId": "04794",
     "manufacturer": "ビスティ",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -2517,7 +2517,7 @@
   },
   {
     "name": "e 仮面ライダーBLACK",
-    "machineId": "4793",
+    "machineId": "04793",
     "manufacturer": "京楽",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -2534,7 +2534,7 @@
   },
   {
     "name": "P攻殻機動隊SAC_2045 大入りLTver",
-    "machineId": "4792",
+    "machineId": "04792",
     "manufacturer": "D-light",
     "probability": "1/189.9",
     "machineTypeRaw": "デジパチ",
@@ -2551,7 +2551,7 @@
   },
   {
     "name": "P ToLOVEるダークネス 100ver.",
-    "machineId": "4779",
+    "machineId": "04779",
     "manufacturer": "平和",
     "probability": "1/100.0",
     "machineTypeRaw": "デジパチ",
@@ -2568,7 +2568,7 @@
   },
   {
     "name": "P乗物娘 WITH CYBER JAPAN DANCERS 2nd season",
-    "machineId": "4775",
+    "machineId": "04775",
     "manufacturer": "ニューギン",
     "probability": "1/199.80",
     "machineTypeRaw": "デジパチ",
@@ -2585,7 +2585,7 @@
   },
   {
     "name": "P【超甘LT】江頭2:50inナナシー 奇跡の99%",
-    "machineId": "4773",
+    "machineId": "04773",
     "manufacturer": "豊丸",
     "probability": "1/33.3",
     "machineTypeRaw": "デジパチ",
@@ -2602,7 +2602,7 @@
   },
   {
     "name": "デジハネP北斗の拳 慈母",
-    "machineId": "4772",
+    "machineId": "04772",
     "manufacturer": "サミー",
     "probability": "1/79.9",
     "machineTypeRaw": "デジパチ",
@@ -2619,7 +2619,7 @@
   },
   {
     "name": "PLT世界でいちばん強くなりたい！2",
-    "machineId": "4769",
+    "machineId": "04769",
     "manufacturer": "サンセイR＆D",
     "probability": "1/199.5",
     "machineTypeRaw": "デジパチ",
@@ -2636,7 +2636,7 @@
   },
   {
     "name": "Pフィーバー機動戦士ガンダムユニコーン再来 129ver.",
-    "machineId": "4766",
+    "machineId": "04766",
     "manufacturer": "SANKYO",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -2653,7 +2653,7 @@
   },
   {
     "name": "P織田信奈の野望 下剋上",
-    "machineId": "4762",
+    "machineId": "04762",
     "manufacturer": "高尾",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -2670,7 +2670,7 @@
   },
   {
     "name": "P海物語 極JAPAN",
-    "machineId": "4759",
+    "machineId": "04759",
     "manufacturer": "三洋",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -2687,7 +2687,7 @@
   },
   {
     "name": "e 東京喰種",
-    "machineId": "4782",
+    "machineId": "04782",
     "manufacturer": "ビスティ",
     "probability": "1/399",
     "machineTypeRaw": "デジパチ",
@@ -2704,7 +2704,7 @@
   },
   {
     "name": "P痛いのは嫌なので防御力に極振りしたいと思います。",
-    "machineId": "4765",
+    "machineId": "04765",
     "manufacturer": "藤商事",
     "probability": "1/399.6",
     "machineTypeRaw": "デジパチ",
@@ -2721,7 +2721,7 @@
   },
   {
     "name": "Pゾンビランドサガ",
-    "machineId": "4764",
+    "machineId": "04764",
     "manufacturer": "サミー",
     "probability": "1/159.8",
     "machineTypeRaw": "デジパチ",
@@ -2738,7 +2738,7 @@
   },
   {
     "name": "PA異世界魔王と召喚少女の奴隷魔術 敏感99Ver",
-    "machineId": "4774",
+    "machineId": "04774",
     "manufacturer": "ニューギン",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2755,7 +2755,7 @@
   },
   {
     "name": "e牙狼神速神撃3000LT",
-    "machineId": "4771",
+    "machineId": "04771",
     "manufacturer": "サンセイR＆D",
     "probability": "1/199.5",
     "machineTypeRaw": "デジパチ",
@@ -2772,7 +2772,7 @@
   },
   {
     "name": "e シン・ウルトラマン",
-    "machineId": "4767",
+    "machineId": "04767",
     "manufacturer": "OK!!",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -2789,7 +2789,7 @@
   },
   {
     "name": "P少女☆歌劇 レヴュースタァライト ラッキートリガー4500",
-    "machineId": "4750",
+    "machineId": "04750",
     "manufacturer": "豊丸",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -2806,7 +2806,7 @@
   },
   {
     "name": "Pフィーバーうたわれるもの 199ver.",
-    "machineId": "4747",
+    "machineId": "04747",
     "manufacturer": "SANKYO",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -2823,7 +2823,7 @@
   },
   {
     "name": "eフィーバーうたわれるもの",
-    "machineId": "4746",
+    "machineId": "04746",
     "manufacturer": "SANKYO",
     "probability": "1/399.7",
     "machineTypeRaw": "デジパチ",
@@ -2840,7 +2840,7 @@
   },
   {
     "name": "Pアナザーゴッドハーデス-獄炎-",
-    "machineId": "4743",
+    "machineId": "04743",
     "manufacturer": "メーシー",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -2857,7 +2857,7 @@
   },
   {
     "name": "P モモキュンソード 速撃3000+",
-    "machineId": "4768",
+    "machineId": "04768",
     "manufacturer": "ソフィア",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -2874,7 +2874,7 @@
   },
   {
     "name": "PAひぐらしのなく頃に 輪廻転生99ver.",
-    "machineId": "4761",
+    "machineId": "04761",
     "manufacturer": "D-light",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2891,7 +2891,7 @@
   },
   {
     "name": "e真・北斗無双 第5章 ドデカSTART",
-    "machineId": "4758",
+    "machineId": "04758",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -2908,7 +2908,7 @@
   },
   {
     "name": "Pうまい棒2",
-    "machineId": "4748",
+    "machineId": "04748",
     "manufacturer": "アムテックス",
     "probability": "1/38.4",
     "machineTypeRaw": "デジパチ",
@@ -2925,7 +2925,7 @@
   },
   {
     "name": "PA魔王学院の不適合者 魔王再臨 99Ver",
-    "machineId": "4738",
+    "machineId": "04738",
     "manufacturer": "藤商事",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -2942,7 +2942,7 @@
   },
   {
     "name": "Pうる星やつら〜Eternal Love Song〜129ver.",
-    "machineId": "4760",
+    "machineId": "04760",
     "manufacturer": "ニューギン",
     "probability": "1/129.77",
     "machineTypeRaw": "デジパチ",
@@ -2959,7 +2959,7 @@
   },
   {
     "name": "P リングにかけろ1",
-    "machineId": "4755",
+    "machineId": "04755",
     "manufacturer": "ニューギン",
     "probability": "1/319.8",
     "machineTypeRaw": "デジパチ",
@@ -2976,7 +2976,7 @@
   },
   {
     "name": "P FAIRY TAIL 89Ver.",
-    "machineId": "4740",
+    "machineId": "04740",
     "manufacturer": "藤商事",
     "probability": "1/89",
     "machineTypeRaw": "デジパチ",
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "PA大海物語5ブラックLT99ver.",
-    "machineId": "4735",
+    "machineId": "04735",
     "manufacturer": "三洋",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3010,7 +3010,7 @@
   },
   {
     "name": "Pバンドリ！ Light ver.",
-    "machineId": "4726",
+    "machineId": "04726",
     "manufacturer": "平和",
     "probability": "1/119.8",
     "machineTypeRaw": "デジパチ",
@@ -3027,7 +3027,7 @@
   },
   {
     "name": "eフィーバーダンジョンに出会いを求めるのは間違っているだろうか2",
-    "machineId": "4723",
+    "machineId": "04723",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "1種2種混合機",
@@ -3044,7 +3044,7 @@
   },
   {
     "name": "Pフィーバーダンジョンに出会いを求めるのは間違っているだろうか2",
-    "machineId": "4722",
+    "machineId": "04722",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "P 俺の妹がこんなに可愛いわけがない。",
-    "machineId": "4721",
+    "machineId": "04721",
     "manufacturer": "京楽",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -3078,7 +3078,7 @@
   },
   {
     "name": "P緋弾のアリア～緋緋神降臨～199Ver.",
-    "machineId": "4739",
+    "machineId": "04739",
     "manufacturer": "藤商事",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -3095,7 +3095,7 @@
   },
   {
     "name": "Pこの素晴らしい世界に祝福を！ラッキートリガー129緊急クエスト",
-    "machineId": "4737",
+    "machineId": "04737",
     "manufacturer": "豊丸",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -3112,7 +3112,7 @@
   },
   {
     "name": "Pデビルマン THE FINAL",
-    "machineId": "4733",
+    "machineId": "04733",
     "manufacturer": "ニューギン",
     "probability": "1/129.77",
     "machineTypeRaw": "デジパチ",
@@ -3129,7 +3129,7 @@
   },
   {
     "name": "Pクイーンズブレイド4 ナナエルver.",
-    "machineId": "4711",
+    "machineId": "04711",
     "manufacturer": "高尾",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -3146,7 +3146,7 @@
   },
   {
     "name": "PAシン・エヴァンゲリオン 99 遊タイム付 ごらくver.",
-    "machineId": "4749",
+    "machineId": "04749",
     "manufacturer": "ビスティ×ごらく",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3163,7 +3163,7 @@
   },
   {
     "name": "P冬のソナタ My Memory Sweet GORAKU Version",
-    "machineId": "4744",
+    "machineId": "04744",
     "manufacturer": "京楽×ごらく",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3180,7 +3180,7 @@
   },
   {
     "name": "ぱちんこ シン・エヴァンゲリオン 129 LT ver.",
-    "machineId": "4736",
+    "machineId": "04736",
     "manufacturer": "ビスティ",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -3197,7 +3197,7 @@
   },
   {
     "name": "P 冬のソナタ My Memory",
-    "machineId": "4732",
+    "machineId": "04732",
     "manufacturer": "京楽",
     "probability": "1/315.1",
     "machineTypeRaw": "デジパチ",
@@ -3214,7 +3214,7 @@
   },
   {
     "name": "PLT OVERLORD魔導王光臨129ver.",
-    "machineId": "4731",
+    "machineId": "04731",
     "manufacturer": "サンセイR＆D",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -3231,7 +3231,7 @@
   },
   {
     "name": "e閃乱カグラ",
-    "machineId": "4729",
+    "machineId": "04729",
     "manufacturer": "D-light",
     "probability": "1/399",
     "machineTypeRaw": "デジパチ",
@@ -3248,7 +3248,7 @@
   },
   {
     "name": "Pとある魔術の禁書目録2 Light PREMIUM 2000 ver.",
-    "machineId": "4728",
+    "machineId": "04728",
     "manufacturer": "JFJ",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3265,7 +3265,7 @@
   },
   {
     "name": "P愛の不時着",
-    "machineId": "4720",
+    "machineId": "04720",
     "manufacturer": "メーシー",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -3282,7 +3282,7 @@
   },
   {
     "name": "eルパン三世 ONE COLLECTION 超ブチヌキLTver.",
-    "machineId": "4713",
+    "machineId": "04713",
     "manufacturer": "平和",
     "probability": "1/399.7",
     "machineTypeRaw": "デジパチ",
@@ -3299,7 +3299,7 @@
   },
   {
     "name": "e蒼天の拳 羅龍",
-    "machineId": "4707",
+    "machineId": "04707",
     "manufacturer": "サミー",
     "probability": "1/399.1",
     "machineTypeRaw": "デジパチ",
@@ -3316,7 +3316,7 @@
   },
   {
     "name": "Pフィーバー戦姫絶唱シンフォギア4 199ver.",
-    "machineId": "4692",
+    "machineId": "04692",
     "manufacturer": "SANKYO",
     "probability": "1/199.9",
     "machineTypeRaw": "1種2種混合機",
@@ -3333,7 +3333,7 @@
   },
   {
     "name": "Pゲゲゲの鬼太郎 獅子奮迅99Ver.",
-    "machineId": "4725",
+    "machineId": "04725",
     "manufacturer": "オレンジ",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3350,7 +3350,7 @@
   },
   {
     "name": "P花の慶次 裂 蓮極129ver.",
-    "machineId": "4705",
+    "machineId": "04705",
     "manufacturer": "ニューギン",
     "probability": "1/129.77",
     "machineTypeRaw": "デジパチ",
@@ -3367,7 +3367,7 @@
   },
   {
     "name": "PA花の慶次 裂 99ver.",
-    "machineId": "4704",
+    "machineId": "04704",
     "manufacturer": "ニューギン",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3384,7 +3384,7 @@
   },
   {
     "name": "Pハネモノ ファミリースタジアム",
-    "machineId": "4693",
+    "machineId": "04693",
     "manufacturer": "ミズホ",
     "probability": "-",
     "machineTypeRaw": "羽根モノ",
@@ -3401,7 +3401,7 @@
   },
   {
     "name": "Pブラックラグーン4 EXTRA BULLET 129ver.",
-    "machineId": "4688",
+    "machineId": "04688",
     "manufacturer": "サミー",
     "probability": "1/129.8",
     "machineTypeRaw": "1種2種混合機",
@@ -3418,7 +3418,7 @@
   },
   {
     "name": "eぱちんこ押忍！番長 漢の頂",
-    "machineId": "4714",
+    "machineId": "04714",
     "manufacturer": "大都技研",
     "probability": "1/179.5",
     "machineTypeRaw": "デジパチ",
@@ -3435,7 +3435,7 @@
   },
   {
     "name": "e ULTRAMAN 2400★80",
-    "machineId": "4716",
+    "machineId": "04716",
     "manufacturer": "OK!!",
     "probability": "1/318.8",
     "machineTypeRaw": "デジパチ",
@@ -3452,7 +3452,7 @@
   },
   {
     "name": "PLTジューシーハニー極嬢",
-    "machineId": "4710",
+    "machineId": "04710",
     "manufacturer": "サンセイR＆D",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -3469,7 +3469,7 @@
   },
   {
     "name": "P世紀末・天才バカボン〜神SPEC 凱旋〜99ver.",
-    "machineId": "4703",
+    "machineId": "04703",
     "manufacturer": "D-light",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3486,7 +3486,7 @@
   },
   {
     "name": "P世界最高の暗殺者、異世界貴族に転生する",
-    "machineId": "4700",
+    "machineId": "04700",
     "manufacturer": "JFJ",
     "probability": "1/319.5",
     "machineTypeRaw": "1種2種混合機",
@@ -3503,7 +3503,7 @@
   },
   {
     "name": "P清流物語4 ヌシを求めて4000匹",
-    "machineId": "4699",
+    "machineId": "04699",
     "manufacturer": "サンスリー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -3520,7 +3520,7 @@
   },
   {
     "name": "P戦国乙女7 終焉の関ヶ原",
-    "machineId": "4685",
+    "machineId": "04685",
     "manufacturer": "アムテックス",
     "probability": "1/399.6",
     "machineTypeRaw": "デジパチ",
@@ -3537,7 +3537,7 @@
   },
   {
     "name": "eフィーバー戦姫絶唱シンフォギア4 キャロルver.",
-    "machineId": "4684",
+    "machineId": "04684",
     "manufacturer": "SANKYO",
     "probability": "1/399.7",
     "machineTypeRaw": "デジパチ",
@@ -3554,7 +3554,7 @@
   },
   {
     "name": "e ゴジラ対エヴァンゲリオン セカンドインパクト G 破壊神覚醒",
-    "machineId": "4695",
+    "machineId": "04695",
     "manufacturer": "ビスティ",
     "probability": "1/499.9",
     "machineTypeRaw": "デジパチ",
@@ -3571,7 +3571,7 @@
   },
   {
     "name": "e ソードアート・オンライン 閃光の軌跡",
-    "machineId": "4687",
+    "machineId": "04687",
     "manufacturer": "京楽",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -3588,7 +3588,7 @@
   },
   {
     "name": "eA夏色日記GO",
-    "machineId": "4708",
+    "machineId": "04708",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/89.8",
     "machineTypeRaw": "デジパチ",
@@ -3605,7 +3605,7 @@
   },
   {
     "name": "Pネオモンスターハウス99Ver.",
-    "machineId": "4698",
+    "machineId": "04698",
     "manufacturer": "竹屋",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -3622,7 +3622,7 @@
   },
   {
     "name": "Pネオモンスターハウス199Ver.",
-    "machineId": "4697",
+    "machineId": "04697",
     "manufacturer": "竹屋",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -3639,7 +3639,7 @@
   },
   {
     "name": "Pシュタインズ・ゲート ゼロ",
-    "machineId": "4659",
+    "machineId": "04659",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -3656,7 +3656,7 @@
   },
   {
     "name": "P真・一騎当千～桃園の誓い～199LTver.",
-    "machineId": "4691",
+    "machineId": "04691",
     "manufacturer": "D-light",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -3673,7 +3673,7 @@
   },
   {
     "name": "P GO!GO!郷 豪遊の5",
-    "machineId": "4696",
+    "machineId": "04696",
     "manufacturer": "ニューギン",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -3690,7 +3690,7 @@
   },
   {
     "name": "P ゴジラ対エヴァンゲリオン セカンドインパクト G",
-    "machineId": "4694",
+    "machineId": "04694",
     "manufacturer": "ビスティ",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -3707,7 +3707,7 @@
   },
   {
     "name": "P真・一騎当千～桃園の誓い～199LTver.",
-    "machineId": "4691",
+    "machineId": "04691",
     "manufacturer": "D-light",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -3724,7 +3724,7 @@
   },
   {
     "name": "PシャカRUSH Z",
-    "machineId": "4679",
+    "machineId": "04679",
     "manufacturer": "マルホン",
     "probability": "1/197.4",
     "machineTypeRaw": "デジパチ",
@@ -3741,7 +3741,7 @@
   },
   {
     "name": "e大工の源さん超韋駄天2 フルスイングLT",
-    "machineId": "4677",
+    "machineId": "04677",
     "manufacturer": "三洋",
     "probability": "1/487.3",
     "machineTypeRaw": "1種2種混合機",
@@ -3758,7 +3758,7 @@
   },
   {
     "name": "P盾の勇者の成り上がり",
-    "machineId": "4672",
+    "machineId": "04672",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -3775,7 +3775,7 @@
   },
   {
     "name": "Pえとたま2 神祭",
-    "machineId": "4671",
+    "machineId": "04671",
     "manufacturer": "メーシー",
     "probability": "1/199.80",
     "machineTypeRaw": "1種2種混合機",
@@ -3792,7 +3792,7 @@
   },
   {
     "name": "P ToLOVEるダークネス 199ver.",
-    "machineId": "4670",
+    "machineId": "04670",
     "manufacturer": "平和",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -3809,7 +3809,7 @@
   },
   {
     "name": "Pフィーバー機動戦士ガンダムSEED LT-Light ver.",
-    "machineId": "4664",
+    "machineId": "04664",
     "manufacturer": "SANKYO",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -3826,7 +3826,7 @@
   },
   {
     "name": "P にゃんこ大戦争 多様性のネコ",
-    "machineId": "4657",
+    "machineId": "04657",
     "manufacturer": "京楽",
     "probability": "1/155",
     "machineTypeRaw": "デジパチ",
@@ -3843,7 +3843,7 @@
   },
   {
     "name": "eフィーバーからくりサーカス2 魔王ver.",
-    "machineId": "4649",
+    "machineId": "04649",
     "manufacturer": "SANKYO",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -3860,7 +3860,7 @@
   },
   {
     "name": "PAナナシー〜お江戸77ver.〜",
-    "machineId": "4682",
+    "machineId": "04682",
     "manufacturer": "豊丸",
     "probability": "1/77.4",
     "machineTypeRaw": "デジパチ",
@@ -3877,7 +3877,7 @@
   },
   {
     "name": "スマパチ SSSS.GRIDMAN",
-    "machineId": "4667",
+    "machineId": "04667",
     "manufacturer": "七匠 七匠",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -3894,7 +3894,7 @@
   },
   {
     "name": "Pリング 呪いの7日間3 甘デジver.",
-    "machineId": "4663",
+    "machineId": "04663",
     "manufacturer": "JFJ",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -3911,7 +3911,7 @@
   },
   {
     "name": "P転生したらスライムだった件",
-    "machineId": "4662",
+    "machineId": "04662",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -3928,7 +3928,7 @@
   },
   {
     "name": "P銀河英雄伝説 Die Neue These",
-    "machineId": "4661",
+    "machineId": "04661",
     "manufacturer": "ニューギン",
     "probability": "1/318.13",
     "machineTypeRaw": "デジパチ",
@@ -3945,7 +3945,7 @@
   },
   {
     "name": "PA銀河英雄伝説 Die Neue These 89ver.",
-    "machineId": "4660",
+    "machineId": "04660",
     "manufacturer": "ニューギン",
     "probability": "1/89.77",
     "machineTypeRaw": "デジパチ",
@@ -3962,7 +3962,7 @@
   },
   {
     "name": "Pモンスターハンターライズ",
-    "machineId": "4656",
+    "machineId": "04656",
     "manufacturer": "サミー",
     "probability": "1/259.0",
     "machineTypeRaw": "デジパチ",
@@ -3979,7 +3979,7 @@
   },
   {
     "name": "P義風堂々!!〜兼続と慶次〜3 199ver.",
-    "machineId": "4655",
+    "machineId": "04655",
     "manufacturer": "ニューギン",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -3996,7 +3996,7 @@
   },
   {
     "name": "Pフィーバーからくりサーカス2 運命ver.",
-    "machineId": "4648",
+    "machineId": "04648",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -4013,7 +4013,7 @@
   },
   {
     "name": "P大海物語5スペシャル",
-    "machineId": "4646",
+    "machineId": "04646",
     "manufacturer": "三洋",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -4030,7 +4030,7 @@
   },
   {
     "name": "e大海物語5スペシャル",
-    "machineId": "4645",
+    "machineId": "04645",
     "manufacturer": "三洋",
     "probability": "1/348.5",
     "machineTypeRaw": "デジパチ",
@@ -4047,7 +4047,7 @@
   },
   {
     "name": "Pラブ嬢 〜極嬢のハーレム体験〜 129ver.",
-    "machineId": "4644",
+    "machineId": "04644",
     "manufacturer": "アムテックス",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -4064,7 +4064,7 @@
   },
   {
     "name": "P江頭2:50inナナシーLT",
-    "machineId": "4637",
+    "machineId": "04637",
     "manufacturer": "豊丸",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -4081,7 +4081,7 @@
   },
   {
     "name": "P弾球黙示録カイジ沼5 ざわっ…79Ver.",
-    "machineId": "4630",
+    "machineId": "04630",
     "manufacturer": "高尾",
     "probability": "1/79.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4098,7 +4098,7 @@
   },
   {
     "name": "P中森明菜・歌姫伝説〜BLACK DIVA楽〜80〜89ver.",
-    "machineId": "4665",
+    "machineId": "04665",
     "manufacturer": "D-light×ごらく",
     "probability": "1/89.9",
     "machineTypeRaw": "デジパチ",
@@ -4115,7 +4115,7 @@
   },
   {
     "name": "P宇宙戦艦ヤマト2202 超波動",
-    "machineId": "4654",
+    "machineId": "04654",
     "manufacturer": "ビスティ",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -4132,7 +4132,7 @@
   },
   {
     "name": "P中森明菜・歌姫伝説〜BLACK DIVA愛〜",
-    "machineId": "4652",
+    "machineId": "04652",
     "manufacturer": "D-light",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -4149,7 +4149,7 @@
   },
   {
     "name": "P CYBORG009 RULE OF SACRIFICE VS SCARL BODY EDITION 199",
-    "machineId": "4642",
+    "machineId": "04642",
     "manufacturer": "ニューギン",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -4166,7 +4166,7 @@
   },
   {
     "name": "Pフィーバー革命機ヴァルヴレイヴ3 Light ver.",
-    "machineId": "4638",
+    "machineId": "04638",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4183,7 +4183,7 @@
   },
   {
     "name": "e 乃木坂46 Ⅱ",
-    "machineId": "4636",
+    "machineId": "04636",
     "manufacturer": "京楽",
     "probability": "1/239.9",
     "machineTypeRaw": "デジパチ",
@@ -4200,7 +4200,7 @@
   },
   {
     "name": "Pルパン三世 ONE COLLECTION",
-    "machineId": "4629",
+    "machineId": "04629",
     "manufacturer": "平和",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4217,7 +4217,7 @@
   },
   {
     "name": "PAわんわんパラダイスCELEBRATION",
-    "machineId": "4627",
+    "machineId": "04627",
     "manufacturer": "サンスリー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -4234,7 +4234,7 @@
   },
   {
     "name": "Pバイオハザード RE:2 ごらくバージョン",
-    "machineId": "4651",
+    "machineId": "04651",
     "manufacturer": "アムテックス×ごらく",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -4251,7 +4251,7 @@
   },
   {
     "name": "P攻殻機動隊SAC_2045 199LTver.",
-    "machineId": "4632",
+    "machineId": "04632",
     "manufacturer": "D-light",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -4268,7 +4268,7 @@
   },
   {
     "name": "Pメイドインアビス 虹の黄金域",
-    "machineId": "4624",
+    "machineId": "04624",
     "manufacturer": "メーシー",
     "probability": "1/319.69",
     "machineTypeRaw": "1種2種混合機",
@@ -4285,7 +4285,7 @@
   },
   {
     "name": "Pいくさの子 織田三郎信長伝",
-    "machineId": "4619",
+    "machineId": "04619",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -4302,7 +4302,7 @@
   },
   {
     "name": "PAワンパンマン99ver.",
-    "machineId": "4634",
+    "machineId": "04634",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -4319,7 +4319,7 @@
   },
   {
     "name": "e 仮面ライダー電王",
-    "machineId": "4633",
+    "machineId": "04633",
     "manufacturer": "京楽",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -4336,7 +4336,7 @@
   },
   {
     "name": "Pとある科学の超電磁砲2",
-    "machineId": "4628",
+    "machineId": "04628",
     "manufacturer": "JFJ",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4353,7 +4353,7 @@
   },
   {
     "name": "eゴッドイーター TRIPLE BURST",
-    "machineId": "4625",
+    "machineId": "04625",
     "manufacturer": "サンセイR＆D",
     "probability": "1/539.2",
     "machineTypeRaw": "デジパチ",
@@ -4370,7 +4370,7 @@
   },
   {
     "name": "eキョンシー ライトミドル 新CタイムVer.",
-    "machineId": "4621",
+    "machineId": "04621",
     "manufacturer": "ニューギン",
     "probability": "1/199.50",
     "machineTypeRaw": "デジパチ",
@@ -4387,7 +4387,7 @@
   },
   {
     "name": "Pフィーバーかぐや様は告らせたい Light ver.",
-    "machineId": "4620",
+    "machineId": "04620",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -4404,7 +4404,7 @@
   },
   {
     "name": "Pルパン三世 銭形からの招待状 77Sweet Ver.",
-    "machineId": "4612",
+    "machineId": "04612",
     "manufacturer": "平和",
     "probability": "1/77.7",
     "machineTypeRaw": "デジパチ",
@@ -4421,7 +4421,7 @@
   },
   {
     "name": "P DD北斗の拳3",
-    "machineId": "4608",
+    "machineId": "04608",
     "manufacturer": "高尾",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4438,7 +4438,7 @@
   },
   {
     "name": "Pリング 呪いの7日間3 ラッキートリガーVer.",
-    "machineId": "4626",
+    "machineId": "04626",
     "manufacturer": "JFJ",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -4455,7 +4455,7 @@
   },
   {
     "name": "PAコマコマ倶楽部 with 坂本冬美 99確変ループver.",
-    "machineId": "4605",
+    "machineId": "04605",
     "manufacturer": "豊丸",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -4472,7 +4472,7 @@
   },
   {
     "name": "デジハネP交響詩篇エウレカセブン ANEMONE 99ver.",
-    "machineId": "4598",
+    "machineId": "04598",
     "manufacturer": "サミー",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4489,7 +4489,7 @@
   },
   {
     "name": "Pバンドリ！",
-    "machineId": "4596",
+    "machineId": "04596",
     "manufacturer": "平和",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -4506,7 +4506,7 @@
   },
   {
     "name": "Pドラムだ！金ドン 花火外伝",
-    "machineId": "4594",
+    "machineId": "04594",
     "manufacturer": "ミズホ",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -4523,7 +4523,7 @@
   },
   {
     "name": "P七つの美徳 ゴールデンエンジェルタイム スイート99Ver.",
-    "machineId": "4590",
+    "machineId": "04590",
     "manufacturer": "高尾",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4540,7 +4540,7 @@
   },
   {
     "name": "P 百花繚乱 ご奉仕129ver.",
-    "machineId": "4622",
+    "machineId": "04622",
     "manufacturer": "D-light",
     "probability": "1/129.8",
     "machineTypeRaw": "1種2種混合機",
@@ -4557,7 +4557,7 @@
   },
   {
     "name": "eフィーバー機動戦士ガンダムユニコーン 再来-白き一角獣と黒き獅子-",
-    "machineId": "4615",
+    "machineId": "04615",
     "manufacturer": "SANKYO",
     "probability": "1/349.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4574,7 +4574,7 @@
   },
   {
     "name": "Pフィーバー機動戦士ガンダムユニコーン 再来-白き一角獣と黒き獅子-",
-    "machineId": "4591",
+    "machineId": "04591",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -4591,7 +4591,7 @@
   },
   {
     "name": "PAスーパー海物語IN地中海2",
-    "machineId": "4587",
+    "machineId": "04587",
     "manufacturer": "三洋",
     "probability": "1/89.8",
     "machineTypeRaw": "1種2種混合機",
@@ -4608,7 +4608,7 @@
   },
   {
     "name": "e北斗の拳10",
-    "machineId": "4567",
+    "machineId": "04567",
     "manufacturer": "サミー",
     "probability": "1/348.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4625,7 +4625,7 @@
   },
   {
     "name": "PAこの素晴らしい世界に祝福を！「このゆる甘99に祝福を！」",
-    "machineId": "4585",
+    "machineId": "04585",
     "manufacturer": "豊丸",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -4642,7 +4642,7 @@
   },
   {
     "name": "P アズールレーン THE ANIMATION 異次元トリガー",
-    "machineId": "4599",
+    "machineId": "04599",
     "manufacturer": "京楽",
     "probability": "1/199",
     "machineTypeRaw": "デジパチ",
@@ -4659,7 +4659,7 @@
   },
   {
     "name": "e花の慶次〜傾奇一転",
-    "machineId": "4593",
+    "machineId": "04593",
     "manufacturer": "ニューギン",
     "probability": "1/319.8",
     "machineTypeRaw": "デジパチ",
@@ -4676,7 +4676,7 @@
   },
   {
     "name": "P花の慶次〜傾奇一転",
-    "machineId": "4592",
+    "machineId": "04592",
     "manufacturer": "ニューギン",
     "probability": "1/319.8",
     "machineTypeRaw": "デジパチ",
@@ -4693,7 +4693,7 @@
   },
   {
     "name": "P貞子",
-    "machineId": "4586",
+    "machineId": "04586",
     "manufacturer": "藤商事",
     "probability": "1/201",
     "machineTypeRaw": "デジパチ",
@@ -4710,7 +4710,7 @@
   },
   {
     "name": "P ドリームクルーン ULTIMATE",
-    "machineId": "4573",
+    "machineId": "04573",
     "manufacturer": "オーイズミ",
     "probability": "1/1",
     "machineTypeRaw": "デジパチ",
@@ -4727,7 +4727,7 @@
   },
   {
     "name": "Pフィーバーありふれた職業で世界最強 Light ver.",
-    "machineId": "4562",
+    "machineId": "04562",
     "manufacturer": "SANKYO",
     "probability": "1/99.902",
     "machineTypeRaw": "1種2種混合機",
@@ -4744,7 +4744,7 @@
   },
   {
     "name": "Pファンキードクター 天使ver.",
-    "machineId": "4589",
+    "machineId": "04589",
     "manufacturer": "マルホン",
     "probability": "1/69.4",
     "machineTypeRaw": "デジパチ",
@@ -4761,7 +4761,7 @@
   },
   {
     "name": "Pうる星やつら〜Eternal Love Song〜",
-    "machineId": "4580",
+    "machineId": "04580",
     "manufacturer": "ニューギン",
     "probability": "1/319",
     "machineTypeRaw": "デジパチ",
@@ -4778,7 +4778,7 @@
   },
   {
     "name": "P魔王学院の不適合者",
-    "machineId": "4578",
+    "machineId": "04578",
     "manufacturer": "藤商事",
     "probability": "1/399.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4795,7 +4795,7 @@
   },
   {
     "name": "P魔法少女まどか☆マギカ3",
-    "machineId": "4576",
+    "machineId": "04576",
     "manufacturer": "京楽",
     "probability": "1/199.9",
     "machineTypeRaw": "1種2種混合機",
@@ -4812,7 +4812,7 @@
   },
   {
     "name": "Pギルティクラウン2 プレミアムライブチケット",
-    "machineId": "4574",
+    "machineId": "04574",
     "manufacturer": "メーシー",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -4829,7 +4829,7 @@
   },
   {
     "name": "P ToLOVEるダークネス",
-    "machineId": "4570",
+    "machineId": "04570",
     "manufacturer": "平和",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -4846,7 +4846,7 @@
   },
   {
     "name": "P保4のガチャバスター",
-    "machineId": "4569",
+    "machineId": "04569",
     "manufacturer": "A-gon",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4863,7 +4863,7 @@
   },
   {
     "name": "P頭文字D 2nd",
-    "machineId": "4568",
+    "machineId": "04568",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -4880,7 +4880,7 @@
   },
   {
     "name": "Pフィーバー三国戦騎7500",
-    "machineId": "4561",
+    "machineId": "04561",
     "manufacturer": "SANKYO",
     "probability": "1/319.741",
     "machineTypeRaw": "1種2種混合機",
@@ -4897,7 +4897,7 @@
   },
   {
     "name": "Pクイーンズブレイド4 UNLIMITED",
-    "machineId": "4559",
+    "machineId": "04559",
     "manufacturer": "高尾",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4914,7 +4914,7 @@
   },
   {
     "name": "ぱちんこ水戸黄門 超極上 らいとばーじょん",
-    "machineId": "4564",
+    "machineId": "04564",
     "manufacturer": "京楽",
     "probability": "1/99.8",
     "machineTypeRaw": "1種2種混合機",
@@ -4931,7 +4931,7 @@
   },
   {
     "name": "Pゴブリンスレイヤー ラッキートリガーVer",
-    "machineId": "4558",
+    "machineId": "04558",
     "manufacturer": "JFJ",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -4948,7 +4948,7 @@
   },
   {
     "name": "Pラブ嬢 〜極嬢のハーレム体験〜",
-    "machineId": "4549",
+    "machineId": "04549",
     "manufacturer": "アムテックス",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -4965,7 +4965,7 @@
   },
   {
     "name": "P GO!GO!郷 革命の5",
-    "machineId": "4546",
+    "machineId": "04546",
     "manufacturer": "ニューギン",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -4982,7 +4982,7 @@
   },
   {
     "name": "Pフィーバー炎炎ノ消防隊Light ver.",
-    "machineId": "4543",
+    "machineId": "04543",
     "manufacturer": "SANKYO",
     "probability": "1/129.969",
     "machineTypeRaw": "1種2種混合機",
@@ -4999,7 +4999,7 @@
   },
   {
     "name": "P七つの大罪2 神千斬りVER.",
-    "machineId": "4542",
+    "machineId": "04542",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -5016,7 +5016,7 @@
   },
   {
     "name": "P牙狼11〜冴島大河〜XX",
-    "machineId": "4557",
+    "machineId": "04557",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -5033,7 +5033,7 @@
   },
   {
     "name": "e新・必殺仕置人 超斬撃199",
-    "machineId": "4551",
+    "machineId": "04551",
     "manufacturer": "京楽",
     "probability": "1/199.9",
     "machineTypeRaw": "1種2種混合機",
@@ -5050,7 +5050,7 @@
   },
   {
     "name": "P FAIRY TAIL これが七炎竜の力だ",
-    "machineId": "4548",
+    "machineId": "04548",
     "manufacturer": "藤商事",
     "probability": "1/399.6",
     "machineTypeRaw": "1種2種混合機",
@@ -5067,7 +5067,7 @@
   },
   {
     "name": "PAハイスクール・フリート オールスター すい〜とでハッピー!2400",
-    "machineId": "4541",
+    "machineId": "04541",
     "manufacturer": "メーシー",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -5084,7 +5084,7 @@
   },
   {
     "name": "P弾球黙示録カイジ沼5 超欲望129×87％Ver.",
-    "machineId": "4534",
+    "machineId": "04534",
     "manufacturer": "高尾",
     "probability": "1/129.7",
     "machineTypeRaw": "1種2種混合機",
@@ -5101,7 +5101,7 @@
   },
   {
     "name": "eフィーバーマクロスフロンティア5",
-    "machineId": "4531",
+    "machineId": "04531",
     "manufacturer": "SANKYO",
     "probability": "1/349.939",
     "machineTypeRaw": "1種2種混合機",
@@ -5118,7 +5118,7 @@
   },
   {
     "name": "Pフィーバーマクロスフロンティア5",
-    "machineId": "4528",
+    "machineId": "04528",
     "manufacturer": "SANKYO",
     "probability": "1/319.741",
     "machineTypeRaw": "1種2種混合機",
@@ -5135,7 +5135,7 @@
   },
   {
     "name": "ぱちんこ GANTZ 覚醒 Sweet2000",
-    "machineId": "4545",
+    "machineId": "04545",
     "manufacturer": "OK!!",
     "probability": "1/129.9",
     "machineTypeRaw": "1種2種混合機",
@@ -5152,7 +5152,7 @@
   },
   {
     "name": "Pひぐらしのなく頃に 輪廻転生",
-    "machineId": "4544",
+    "machineId": "04544",
     "manufacturer": "D-light",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -5169,7 +5169,7 @@
   },
   {
     "name": "Pバイオハザード RE:2 LTver.",
-    "machineId": "4537",
+    "machineId": "04537",
     "manufacturer": "アムテックス",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -5186,7 +5186,7 @@
   },
   {
     "name": "P大工の源さん超韋駄天2極源LighT",
-    "machineId": "4532",
+    "machineId": "04532",
     "manufacturer": "三洋",
     "probability": "1/129.7",
     "machineTypeRaw": "1種2種混合機",
@@ -5203,7 +5203,7 @@
   },
   {
     "name": "P化物語 199ver.",
-    "machineId": "4519",
+    "machineId": "04519",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -5220,7 +5220,7 @@
   },
   {
     "name": "P化物語 319ver.",
-    "machineId": "4518",
+    "machineId": "04518",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -5237,7 +5237,7 @@
   },
   {
     "name": "P sin 七つの大罪 強甘 2400Ver.",
-    "machineId": "4529",
+    "machineId": "04529",
     "manufacturer": "高尾",
     "probability": "1/129.7",
     "machineTypeRaw": "1種2種混合機",
@@ -5254,7 +5254,7 @@
   },
   {
     "name": "Pファンキードクター 悪魔12000ver.",
-    "machineId": "4520",
+    "machineId": "04520",
     "manufacturer": "マルホン",
     "probability": "1/69.4",
     "machineTypeRaw": "1種2種混合機",
@@ -5271,7 +5271,7 @@
   },
   {
     "name": "P咲-Saki-全国編 テンパイ即リーver.",
-    "machineId": "4507",
+    "machineId": "04507",
     "manufacturer": "三洋",
     "probability": "1/119.9",
     "machineTypeRaw": "1種2種混合機",
@@ -5288,7 +5288,7 @@
   },
   {
     "name": "PA満開昔ばなし 天まで届け100ver. GO",
-    "machineId": "4533",
+    "machineId": "04533",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/66.6",
     "machineTypeRaw": "デジパチ",
@@ -5305,7 +5305,7 @@
   },
   {
     "name": "P真・座頭市物語",
-    "machineId": "4526",
+    "machineId": "04526",
     "manufacturer": "ニューギン",
     "probability": "1/319",
     "machineTypeRaw": "1種2種混合機",
@@ -5322,7 +5322,7 @@
   },
   {
     "name": "P世紀末・天才バカボン〜福神SPEC〜",
-    "machineId": "4524",
+    "machineId": "04524",
     "manufacturer": "D-light",
     "probability": "1/129.99",
     "machineTypeRaw": "1種2種混合機",
@@ -5339,7 +5339,7 @@
   },
   {
     "name": "Pコードギアス 反逆のルルーシュ Rebellion to Re;surrectionライトver.",
-    "machineId": "4523",
+    "machineId": "04523",
     "manufacturer": "ビスティ",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -5356,7 +5356,7 @@
   },
   {
     "name": "スマパチ シン・エヴァンゲリオン Type ゲンドウ",
-    "machineId": "4522",
+    "machineId": "04522",
     "manufacturer": "ビスティ",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -5373,7 +5373,7 @@
   },
   {
     "name": "P緋弾のアリア～緋緋神降臨～ラッキートリガーVer.",
-    "machineId": "4514",
+    "machineId": "04514",
     "manufacturer": "藤商事",
     "probability": "1/399.9",
     "machineTypeRaw": "デジパチ",
@@ -5390,7 +5390,7 @@
   },
   {
     "name": "Pフィーバーパワフル",
-    "machineId": "4509",
+    "machineId": "04509",
     "manufacturer": "SANKYO",
     "probability": "1/99.98",
     "machineTypeRaw": "デジパチ",
@@ -5407,7 +5407,7 @@
   },
   {
     "name": "Pわんニャンアドベンチャー119ver.",
-    "machineId": "4508",
+    "machineId": "04508",
     "manufacturer": "サンスリー",
     "probability": "1/119.8",
     "machineTypeRaw": "1種2種混合機",
@@ -5424,7 +5424,7 @@
   },
   {
     "name": "Pこの素晴らしい世界に祝福を！199LT「このラッキートリガーに祝福を！」",
-    "machineId": "4506",
+    "machineId": "04506",
     "manufacturer": "豊丸",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -5441,7 +5441,7 @@
   },
   {
     "name": "PLT OVERLORD魔導王光臨",
-    "machineId": "4505",
+    "machineId": "04505",
     "manufacturer": "サンセイR＆D",
     "probability": "1/329.9",
     "machineTypeRaw": "1種2種混合機",
@@ -5458,7 +5458,7 @@
   },
   {
     "name": "P北斗の拳 強敵 LT",
-    "machineId": "4503",
+    "machineId": "04503",
     "manufacturer": "サミー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -5475,7 +5475,7 @@
   },
   {
     "name": "ぱちんこGⅠ優駿倶楽部2 ラッキートリガーver",
-    "machineId": "4502",
+    "machineId": "04502",
     "manufacturer": "コナミアミューズメント",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -5492,7 +5492,7 @@
   },
   {
     "name": "PAルパン三世 THE FIRST 不二子89ver.",
-    "machineId": "4521",
+    "machineId": "04521",
     "manufacturer": "平和×ごらく",
     "probability": "1/89.8",
     "machineTypeRaw": "デジパチ",
@@ -5509,7 +5509,7 @@
   },
   {
     "name": "Pルパン三世 THE FIRST 99ver.",
-    "machineId": "4489",
+    "machineId": "04489",
     "manufacturer": "平和",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -5526,7 +5526,7 @@
   },
   {
     "name": "P新世紀エヴァンゲリオン〜未来への咆哮〜PREMIUM MODEL",
-    "machineId": "4498",
+    "machineId": "04498",
     "manufacturer": "ビスティ",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -5543,7 +5543,7 @@
   },
   {
     "name": "PニュートキオGREEN",
-    "machineId": "4513",
+    "machineId": "04513",
     "manufacturer": "アムテックス",
     "probability": "-",
     "machineTypeRaw": "羽根モノ",
@@ -5560,7 +5560,7 @@
   },
   {
     "name": "P真・一騎当千～桃園の誓い～129ver",
-    "machineId": "4499",
+    "machineId": "04499",
     "manufacturer": "D-light",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -5577,7 +5577,7 @@
   },
   {
     "name": "Pサラリーマン金太郎 159をなめんじゃねぇver.",
-    "machineId": "4497",
+    "machineId": "04497",
     "manufacturer": "藤商事",
     "probability": "1/159.8",
     "machineTypeRaw": "デジパチ",
@@ -5594,7 +5594,7 @@
   },
   {
     "name": "PストリートファイターⅤ K.O.RUSH LIGHT EDITION",
-    "machineId": "4496",
+    "machineId": "04496",
     "manufacturer": "藤商事",
     "probability": "1/135.9",
     "machineTypeRaw": "デジパチ",
@@ -5611,7 +5611,7 @@
   },
   {
     "name": "P異世界魔王と召喚少女の奴隷魔術",
-    "machineId": "4492",
+    "machineId": "04492",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -5628,7 +5628,7 @@
   },
   {
     "name": "PA Go!Go!郷 comeback stage 77ver.",
-    "machineId": "4491",
+    "machineId": "04491",
     "manufacturer": "ニューギン",
     "probability": "1/77.92",
     "machineTypeRaw": "デジパチ",
@@ -5645,7 +5645,7 @@
   },
   {
     "name": "Pフィーバーダンベル何キロ持てる？ Light ver.",
-    "machineId": "4483",
+    "machineId": "04483",
     "manufacturer": "SANKYO",
     "probability": "1/99.902",
     "machineTypeRaw": "1種2種混合機",
@@ -5662,7 +5662,7 @@
   },
   {
     "name": "デジハネP聖戦士ダンバイン2 ZEROSONIC",
-    "machineId": "4481",
+    "machineId": "04481",
     "manufacturer": "サミー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -5679,7 +5679,7 @@
   },
   {
     "name": "P弾球黙示録カイジ沼5",
-    "machineId": "4474",
+    "machineId": "04474",
     "manufacturer": "高尾",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -5696,7 +5696,7 @@
   },
   {
     "name": "P真・花の慶次3 99ver.",
-    "machineId": "4469",
+    "machineId": "04469",
     "manufacturer": "ニューギン",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -5713,7 +5713,7 @@
   },
   {
     "name": "Pビッグポップコーン SWEET VER.",
-    "machineId": "4495",
+    "machineId": "04495",
     "manufacturer": "A-gon",
     "probability": "1/318",
     "machineTypeRaw": "デジパチ",
@@ -5730,7 +5730,7 @@
   },
   {
     "name": "Pとある魔術の禁書目録2",
-    "machineId": "4485",
+    "machineId": "04485",
     "manufacturer": "JFJ",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -5747,7 +5747,7 @@
   },
   {
     "name": "PA激デジ牙狼 月虹ノ旅人",
-    "machineId": "4484",
+    "machineId": "04484",
     "manufacturer": "サンセイR＆D",
     "probability": "1/77.74",
     "machineTypeRaw": "デジパチ",
@@ -5764,7 +5764,7 @@
   },
   {
     "name": "Pやじきた道中記 甘味ver.",
-    "machineId": "4482",
+    "machineId": "04482",
     "manufacturer": "メーシー",
     "probability": "1/89.9",
     "machineTypeRaw": "デジパチ",
@@ -5781,7 +5781,7 @@
   },
   {
     "name": "P中森明菜・歌姫伝説〜BLACK DIVA極〜",
-    "machineId": "4480",
+    "machineId": "04480",
     "manufacturer": "D-light",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -5798,7 +5798,7 @@
   },
   {
     "name": "e CYBORG009 RULE OF SACRIFICE",
-    "machineId": "4473",
+    "machineId": "04473",
     "manufacturer": "ニューギン",
     "probability": "1/348.59",
     "machineTypeRaw": "1種2種混合機",
@@ -5815,7 +5815,7 @@
   },
   {
     "name": "P CYBORG009 RULE OF SACRIFICE",
-    "machineId": "4472",
+    "machineId": "04472",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -5832,7 +5832,7 @@
   },
   {
     "name": "Pドラム花火の源さん",
-    "machineId": "4470",
+    "machineId": "04470",
     "manufacturer": "サンスリー",
     "probability": "1/239.18",
     "machineTypeRaw": "1種2種混合機",
@@ -5849,7 +5849,7 @@
   },
   {
     "name": "Pポチッと一発！おだてブタ2",
-    "machineId": "4467",
+    "machineId": "04467",
     "manufacturer": "アムテックス",
     "probability": "1/3",
     "machineTypeRaw": "デジパチ",
@@ -5866,7 +5866,7 @@
   },
   {
     "name": "Pフィーバー革命機ヴァルヴレイヴ3",
-    "machineId": "4461",
+    "machineId": "04461",
     "manufacturer": "SANKYO",
     "probability": "1/319.741",
     "machineTypeRaw": "デジパチ",
@@ -5883,7 +5883,7 @@
   },
   {
     "name": "ぱちんこ シン・エヴァンゲリオン Type レイ",
-    "machineId": "4452",
+    "machineId": "04452",
     "manufacturer": "ビスティ",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -5900,7 +5900,7 @@
   },
   {
     "name": "P真・一騎当千 Light Ver.",
-    "machineId": "4475",
+    "machineId": "04475",
     "manufacturer": "Daiichi",
     "probability": "1/129.8",
     "machineTypeRaw": "デジパチ",
@@ -5917,7 +5917,7 @@
   },
   {
     "name": "スマパチ シン・エヴァンゲリオン Type カヲル",
-    "machineId": "4451",
+    "machineId": "04451",
     "manufacturer": "ビスティ",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -5934,7 +5934,7 @@
   },
   {
     "name": "P天龍∞ SEVEN Light Ver.",
-    "machineId": "4465",
+    "machineId": "04465",
     "manufacturer": "マルホン",
     "probability": "1/19.9",
     "machineTypeRaw": "デジパチ",
@@ -5951,7 +5951,7 @@
   },
   {
     "name": "P天龍∞ SEVEN Blue Ver.",
-    "machineId": "4463",
+    "machineId": "04463",
     "manufacturer": "マルホン",
     "probability": "1/39.9",
     "machineTypeRaw": "デジパチ",
@@ -5968,7 +5968,7 @@
   },
   {
     "name": "P yes！高須クリニック～超整形PINK～",
-    "machineId": "4462",
+    "machineId": "04462",
     "manufacturer": "豊丸",
     "probability": "1/9.9",
     "machineTypeRaw": "デジパチ",
@@ -5985,7 +5985,7 @@
   },
   {
     "name": "P大海物語5 ブラック",
-    "machineId": "4444",
+    "machineId": "04444",
     "manufacturer": "三洋",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6002,7 +6002,7 @@
   },
   {
     "name": "P交響詩篇エウレカセブン ANEMONE",
-    "machineId": "4441",
+    "machineId": "04441",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -6019,7 +6019,7 @@
   },
   {
     "name": "Pワンパンマン 199ver.",
-    "machineId": "4437",
+    "machineId": "04437",
     "manufacturer": "ニューギン",
     "probability": "1/199.80",
     "machineTypeRaw": "1種2種混合機",
@@ -6036,7 +6036,7 @@
   },
   {
     "name": "PフィーバーからくりサーカスLight ver.",
-    "machineId": "4430",
+    "machineId": "04430",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -6053,7 +6053,7 @@
   },
   {
     "name": "e Re:ゼロから始める異世界生活 season2",
-    "machineId": "4457",
+    "machineId": "04457",
     "manufacturer": "大都技研",
     "probability": "1/349.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6070,7 +6070,7 @@
   },
   {
     "name": "PA豊丸ととある企業の最新作2 SOD 99ver.",
-    "machineId": "4438",
+    "machineId": "04438",
     "manufacturer": "豊丸",
     "probability": "1/99.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6087,7 +6087,7 @@
   },
   {
     "name": "eルパン三世 銭形からの招待状",
-    "machineId": "4435",
+    "machineId": "04435",
     "manufacturer": "平和",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -6104,7 +6104,7 @@
   },
   {
     "name": "ぱちんこ 水戸黄門 超極上",
-    "machineId": "4448",
+    "machineId": "04448",
     "manufacturer": "京楽",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -6121,7 +6121,7 @@
   },
   {
     "name": "Pゲゲゲの鬼太郎 獅子奮迅",
-    "machineId": "4443",
+    "machineId": "04443",
     "manufacturer": "オレンジ",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -6138,7 +6138,7 @@
   },
   {
     "name": "スマパチゲゲゲの鬼太郎 獅子奮迅SP",
-    "machineId": "4442",
+    "machineId": "04442",
     "manufacturer": "JFJ",
     "probability": "1/349.9",
     "machineTypeRaw": "デジパチ",
@@ -6155,7 +6155,7 @@
   },
   {
     "name": "P覇穹 封神演義",
-    "machineId": "4436",
+    "machineId": "04436",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -6172,7 +6172,7 @@
   },
   {
     "name": "Pベルセルク無双 119ver.",
-    "machineId": "4431",
+    "machineId": "04431",
     "manufacturer": "ニューギン",
     "probability": "1/119.80",
     "machineTypeRaw": "デジパチ",
@@ -6189,7 +6189,7 @@
   },
   {
     "name": "Pフィーバーありふれた職業で世界最強",
-    "machineId": "4429",
+    "machineId": "04429",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -6206,7 +6206,7 @@
   },
   {
     "name": "P真・北斗無双 第4章 下剋上闘",
-    "machineId": "4427",
+    "machineId": "04427",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6223,7 +6223,7 @@
   },
   {
     "name": "Pゴジラ対エヴァンゲリオン〜G細胞覚醒〜 PREMIUM MODEL",
-    "machineId": "4432",
+    "machineId": "04432",
     "manufacturer": "ビスティ",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6240,7 +6240,7 @@
   },
   {
     "name": "PストリートファイターⅤ K.O.RUSH",
-    "machineId": "4424",
+    "machineId": "04424",
     "manufacturer": "藤商事",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -6257,7 +6257,7 @@
   },
   {
     "name": "Pギルティクラウン2",
-    "machineId": "4421",
+    "machineId": "04421",
     "manufacturer": "メーシー",
     "probability": "1/239.1",
     "machineTypeRaw": "1種2種混合機",
@@ -6274,7 +6274,7 @@
   },
   {
     "name": "PA満開爛漫 GO",
-    "machineId": "4439",
+    "machineId": "04439",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/77.7",
     "machineTypeRaw": "デジパチ",
@@ -6291,7 +6291,7 @@
   },
   {
     "name": "Pプロゴルファー猿 強甘119ver.",
-    "machineId": "4426",
+    "machineId": "04426",
     "manufacturer": "豊丸",
     "probability": "1/119.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6308,7 +6308,7 @@
   },
   {
     "name": "ぱちんこ GANTZ 覚醒 RUSH180",
-    "machineId": "4425",
+    "machineId": "04425",
     "manufacturer": "OK!!",
     "probability": "1/199.9",
     "machineTypeRaw": "デジパチ",
@@ -6325,7 +6325,7 @@
   },
   {
     "name": "PA激デジ ジューシーハニーハーレム",
-    "machineId": "4422",
+    "machineId": "04422",
     "manufacturer": "サンセイR＆D",
     "probability": "1/77.74",
     "machineTypeRaw": "デジパチ",
@@ -6342,7 +6342,7 @@
   },
   {
     "name": "P世紀末・天才バカボン〜神SPEC 凱旋〜",
-    "machineId": "4417",
+    "machineId": "04417",
     "manufacturer": "D-light",
     "probability": "1/319.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6359,7 +6359,7 @@
   },
   {
     "name": "Pフィーバーかぐや様は告らせたい",
-    "machineId": "4416",
+    "machineId": "04416",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -6376,7 +6376,7 @@
   },
   {
     "name": "e新海物語349",
-    "machineId": "4413",
+    "machineId": "04413",
     "manufacturer": "三洋",
     "probability": "1/348.5",
     "machineTypeRaw": "デジパチ",
@@ -6393,7 +6393,7 @@
   },
   {
     "name": "P頭文字D Non-Stop 3000Edition",
-    "machineId": "4411",
+    "machineId": "04411",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6410,7 +6410,7 @@
   },
   {
     "name": "e義風堂々!!〜兼続と慶次〜3",
-    "machineId": "4408",
+    "machineId": "04408",
     "manufacturer": "ニューギン",
     "probability": "1/348.59",
     "machineTypeRaw": "デジパチ",
@@ -6427,7 +6427,7 @@
   },
   {
     "name": "P新世紀エヴァンゲリオン〜未来への咆哮〜SPECIAL EDITION",
-    "machineId": "4418",
+    "machineId": "04418",
     "manufacturer": "ビスティ",
     "probability": "1/199.2",
     "machineTypeRaw": "デジパチ",
@@ -6444,7 +6444,7 @@
   },
   {
     "name": "ぱちんこ戦国コレクション 天魔99",
-    "machineId": "4412",
+    "machineId": "04412",
     "manufacturer": "コナミアミューズメント",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -6461,7 +6461,7 @@
   },
   {
     "name": "Pリング 呪いの7日間3",
-    "machineId": "4407",
+    "machineId": "04407",
     "manufacturer": "JFJ",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -6478,7 +6478,7 @@
   },
   {
     "name": "Pフィーバー戦姫絶唱シンフォギア3黄金絶唱Light ver.",
-    "machineId": "4399",
+    "machineId": "04399",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6495,7 +6495,7 @@
   },
   {
     "name": "Pルパン三世 消されたルパン2022 99ver.",
-    "machineId": "4397",
+    "machineId": "04397",
     "manufacturer": "平和",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -6512,7 +6512,7 @@
   },
   {
     "name": "スマートぱちんこ ソードアート・オンライン",
-    "machineId": "4415",
+    "machineId": "04415",
     "manufacturer": "京楽",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -6529,7 +6529,7 @@
   },
   {
     "name": "P咲-Saki-全国編",
-    "machineId": "4398",
+    "machineId": "04398",
     "manufacturer": "三洋",
     "probability": "1/319.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6546,7 +6546,7 @@
   },
   {
     "name": "P 百花繚乱",
-    "machineId": "4396",
+    "machineId": "04396",
     "manufacturer": "D-light",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -6563,7 +6563,7 @@
   },
   {
     "name": "Pハイスクール・フリート オールスター",
-    "machineId": "4394",
+    "machineId": "04394",
     "manufacturer": "メーシー",
     "probability": "1/229.95",
     "machineTypeRaw": "1種2種混合機",
@@ -6580,7 +6580,7 @@
   },
   {
     "name": "P七つの美徳 ゴールデンエンジェルタイム",
-    "machineId": "4400",
+    "machineId": "04400",
     "manufacturer": "高尾",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6597,7 +6597,7 @@
   },
   {
     "name": "Pシティーハンター 俺の心を震わせた日 凄ライトミドル",
-    "machineId": "4389",
+    "machineId": "04389",
     "manufacturer": "アムテックス",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6614,7 +6614,7 @@
   },
   {
     "name": "P聖闘士星矢 超流星LIGHT",
-    "machineId": "4385",
+    "machineId": "04385",
     "manufacturer": "三洋",
     "probability": "1/129.5",
     "machineTypeRaw": "1種2種混合機",
@@ -6631,7 +6631,7 @@
   },
   {
     "name": "Pデビルマン黄金黙示録",
-    "machineId": "4392",
+    "machineId": "04392",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -6648,7 +6648,7 @@
   },
   {
     "name": "P真・一騎当千～桃園の誓い～",
-    "machineId": "4388",
+    "machineId": "04388",
     "manufacturer": "D-light",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -6665,7 +6665,7 @@
   },
   {
     "name": "P GO!GO!マリン 3000",
-    "machineId": "4384",
+    "machineId": "04384",
     "manufacturer": "サンスリー",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -6682,7 +6682,7 @@
   },
   {
     "name": "Pフィーバー機動戦士ガンダムSEED",
-    "machineId": "4381",
+    "machineId": "04381",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -6699,7 +6699,7 @@
   },
   {
     "name": "Pビッグドリーム3 77ver.",
-    "machineId": "4379",
+    "machineId": "04379",
     "manufacturer": "サミー",
     "probability": "1/77.7",
     "machineTypeRaw": "デジパチ",
@@ -6716,7 +6716,7 @@
   },
   {
     "name": "PフィーバークィーンⅡ 30th ANNIVERSARY EDITION",
-    "machineId": "4364",
+    "machineId": "04364",
     "manufacturer": "ジェイビー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -6733,7 +6733,7 @@
   },
   {
     "name": "スマパチ RAVE 覚聖ループ",
-    "machineId": "4380",
+    "machineId": "04380",
     "manufacturer": "JFJ",
     "probability": "1/299",
     "machineTypeRaw": "1種2種混合機",
@@ -6750,7 +6750,7 @@
   },
   {
     "name": "eキャッツ・アイ",
-    "machineId": "4373",
+    "machineId": "04373",
     "manufacturer": "平和",
     "probability": "1/349.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6767,7 +6767,7 @@
   },
   {
     "name": "Pアナザーゴッドハーデス-狂乱-",
-    "machineId": "4371",
+    "machineId": "04371",
     "manufacturer": "メーシー",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -6784,7 +6784,7 @@
   },
   {
     "name": "P貞子3D3",
-    "machineId": "4370",
+    "machineId": "04370",
     "manufacturer": "高尾",
     "probability": "1/57.8",
     "machineTypeRaw": "デジパチ",
@@ -6801,7 +6801,7 @@
   },
   {
     "name": "e花の慶次 裂 一刀両断",
-    "machineId": "4363",
+    "machineId": "04363",
     "manufacturer": "ニューギン",
     "probability": "1/348.59",
     "machineTypeRaw": "デジパチ",
@@ -6818,7 +6818,7 @@
   },
   {
     "name": "Pブラックラグーン4",
-    "machineId": "4359",
+    "machineId": "04359",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -6835,7 +6835,7 @@
   },
   {
     "name": "PA大海物語5 Withアグネス・ラム",
-    "machineId": "4358",
+    "machineId": "04358",
     "manufacturer": "三洋",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -6852,7 +6852,7 @@
   },
   {
     "name": "ぱちんこ 乃木坂46 キュンキュンLIGHT ver.",
-    "machineId": "4377",
+    "machineId": "04377",
     "manufacturer": "京楽",
     "probability": "1/129.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6869,7 +6869,7 @@
   },
   {
     "name": "P ベルセルク無双 冥府魔道ver.",
-    "machineId": "4376",
+    "machineId": "04376",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -6886,7 +6886,7 @@
   },
   {
     "name": "P銀河鉄道999 Next Journey 1/100ver.",
-    "machineId": "4353",
+    "machineId": "04353",
     "manufacturer": "アムテックス",
     "probability": "1/100.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6903,7 +6903,7 @@
   },
   {
     "name": "ぱちんこ ウルトラマンティガ ウルトラ超光ライトver.",
-    "machineId": "4368",
+    "machineId": "04368",
     "manufacturer": "OK!!",
     "probability": "1/129.9",
     "machineTypeRaw": "1種2種混合機",
@@ -6920,7 +6920,7 @@
   },
   {
     "name": "P地獄少女 Light",
-    "machineId": "4362",
+    "machineId": "04362",
     "manufacturer": "藤商事",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -6937,7 +6937,7 @@
   },
   {
     "name": "Pわんニャンアドベンチャー",
-    "machineId": "4354",
+    "machineId": "04354",
     "manufacturer": "サンスリー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -6954,7 +6954,7 @@
   },
   {
     "name": "Pフィーバースプラッシュ×スプラッシュ",
-    "machineId": "4350",
+    "machineId": "04350",
     "manufacturer": "SANKYO",
     "probability": "1/199.805",
     "machineTypeRaw": "1種2種混合機",
@@ -6971,7 +6971,7 @@
   },
   {
     "name": "P yes！高須クリニック青天 はじまりは4500",
-    "machineId": "4349",
+    "machineId": "04349",
     "manufacturer": "豊丸",
     "probability": "1/38.7",
     "machineTypeRaw": "デジパチ",
@@ -6988,7 +6988,7 @@
   },
   {
     "name": "P甲鉄城のカバネリ ～4,000連激ver.～",
-    "machineId": "4345",
+    "machineId": "04345",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -7005,7 +7005,7 @@
   },
   {
     "name": "Pフィーバー蒼穹のファフナー3 EXODUS 織姫Light ver.",
-    "machineId": "4330",
+    "machineId": "04330",
     "manufacturer": "SANKYO",
     "probability": "1/69.9",
     "machineTypeRaw": "デジパチ",
@@ -7022,7 +7022,7 @@
   },
   {
     "name": "P大線香花火",
-    "machineId": "4357",
+    "machineId": "04357",
     "manufacturer": "A-gon",
     "probability": "1/72",
     "machineTypeRaw": "デジパチ",
@@ -7039,7 +7039,7 @@
   },
   {
     "name": "Pやじきた道中記",
-    "machineId": "4339",
+    "machineId": "04339",
     "manufacturer": "メーシー",
     "probability": "1/159.8",
     "machineTypeRaw": "1種2種混合機",
@@ -7056,7 +7056,7 @@
   },
   {
     "name": "Pフィーバー 機動戦士ガンダムユニコーン LIGHT ver.",
-    "machineId": "4331",
+    "machineId": "04331",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7073,7 +7073,7 @@
   },
   {
     "name": "P コードギアス 反逆のルルーシュ Rebellion to Re;surrection",
-    "machineId": "4351",
+    "machineId": "04351",
     "manufacturer": "ビスティ",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -7090,7 +7090,7 @@
   },
   {
     "name": "P哲也",
-    "machineId": "4346",
+    "machineId": "04346",
     "manufacturer": "D-light",
     "probability": "1/197.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7107,7 +7107,7 @@
   },
   {
     "name": "Pジューシーハニーハーレム",
-    "machineId": "4344",
+    "machineId": "04344",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -7124,7 +7124,7 @@
   },
   {
     "name": "P新・遠山の金さん 77Ver.",
-    "machineId": "4343",
+    "machineId": "04343",
     "manufacturer": "JFJ",
     "probability": "1/77.9",
     "machineTypeRaw": "デジパチ",
@@ -7141,7 +7141,7 @@
   },
   {
     "name": "PA真・怪獣王ゴジラ2",
-    "machineId": "4338",
+    "machineId": "04338",
     "manufacturer": "ニューギン",
     "probability": "1/78.86",
     "machineTypeRaw": "デジパチ",
@@ -7158,7 +7158,7 @@
   },
   {
     "name": "Pゴブリンスレイヤー",
-    "machineId": "4337",
+    "machineId": "04337",
     "manufacturer": "JFJ",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7175,7 +7175,7 @@
   },
   {
     "name": "PA元祖ギンギラパラダイス 強99ver.",
-    "machineId": "4336",
+    "machineId": "04336",
     "manufacturer": "サンスリー",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7192,7 +7192,7 @@
   },
   {
     "name": "Pバイオハザード RE:2",
-    "machineId": "4334",
+    "machineId": "04334",
     "manufacturer": "アムテックス",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -7209,7 +7209,7 @@
   },
   {
     "name": "P北斗の拳 暴凶星",
-    "machineId": "4332",
+    "machineId": "04332",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7226,7 +7226,7 @@
   },
   {
     "name": "ぱちんこ 新・必殺仕置人S",
-    "machineId": "4348",
+    "machineId": "04348",
     "manufacturer": "京楽",
     "probability": "1/349.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7243,7 +7243,7 @@
   },
   {
     "name": "eルパン三世 THE FIRST",
-    "machineId": "4324",
+    "machineId": "04324",
     "manufacturer": "平和",
     "probability": "1/349.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7260,7 +7260,7 @@
   },
   {
     "name": "Pフィーバー炎炎ノ消防隊",
-    "machineId": "4322",
+    "machineId": "04322",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7277,7 +7277,7 @@
   },
   {
     "name": "P天龍∞ SEVEN",
-    "machineId": "4317",
+    "machineId": "04317",
     "manufacturer": "マルホン",
     "probability": "1/39.9",
     "machineTypeRaw": "デジパチ",
@@ -7294,7 +7294,7 @@
   },
   {
     "name": "e聖闘士星矢 超流星CliMAX349",
-    "machineId": "4323",
+    "machineId": "04323",
     "manufacturer": "三洋",
     "probability": "1/348.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7311,7 +7311,7 @@
   },
   {
     "name": "P Go!Go!郷 comeback stage",
-    "machineId": "4318",
+    "machineId": "04318",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -7328,7 +7328,7 @@
   },
   {
     "name": "P銭形平次3 お静99",
-    "machineId": "4315",
+    "machineId": "04315",
     "manufacturer": "高尾",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7345,7 +7345,7 @@
   },
   {
     "name": "Pプロゴルファー猿 EMPEROR MODEL",
-    "machineId": "4313",
+    "machineId": "04313",
     "manufacturer": "豊丸",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7362,7 +7362,7 @@
   },
   {
     "name": "P聖戦士ダンバイン2 -ZEROLIMIT HYPER-",
-    "machineId": "4312",
+    "machineId": "04312",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -7379,7 +7379,7 @@
   },
   {
     "name": "Pとある科学の超電磁砲 最強御坂ver.",
-    "machineId": "4319",
+    "machineId": "04319",
     "manufacturer": "オレンジ",
     "probability": "1/119",
     "machineTypeRaw": "1種2種混合機",
@@ -7396,7 +7396,7 @@
   },
   {
     "name": "Pバベル5000",
-    "machineId": "4314",
+    "machineId": "04314",
     "manufacturer": "ミズホ",
     "probability": "1/1.0",
     "machineTypeRaw": "デジパチ",
@@ -7413,7 +7413,7 @@
   },
   {
     "name": "ぱちんこ 乃木坂46 トレジャースペック",
-    "machineId": "4320",
+    "machineId": "04320",
     "manufacturer": "京楽",
     "probability": "1/319.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7430,7 +7430,7 @@
   },
   {
     "name": "P009 RE:CYBORG ACCELERATOR EDITION 99ver.",
-    "machineId": "4307",
+    "machineId": "04307",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -7447,7 +7447,7 @@
   },
   {
     "name": "P真・北斗無双 第3章 覚醒闘舞",
-    "machineId": "4303",
+    "machineId": "04303",
     "manufacturer": "サミー",
     "probability": "1/129.3",
     "machineTypeRaw": "1種2種混合機",
@@ -7464,7 +7464,7 @@
   },
   {
     "name": "Pフィーバーアクエリオン極合体",
-    "machineId": "4300",
+    "machineId": "04300",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7481,7 +7481,7 @@
   },
   {
     "name": "P麻雀物語4 77ver.",
-    "machineId": "4290",
+    "machineId": "04290",
     "manufacturer": "平和",
     "probability": "1/77.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7498,7 +7498,7 @@
   },
   {
     "name": "Pルパン三世 2000カラットの涙 129ver.",
-    "machineId": "4289",
+    "machineId": "04289",
     "manufacturer": "平和",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
@@ -7515,7 +7515,7 @@
   },
   {
     "name": "Psin 七つの大罪 X-TREME",
-    "machineId": "4287",
+    "machineId": "04287",
     "manufacturer": "高尾",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7532,7 +7532,7 @@
   },
   {
     "name": "Pルパン三世 THE FIRST",
-    "machineId": "4284",
+    "machineId": "04284",
     "manufacturer": "平和",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7549,7 +7549,7 @@
   },
   {
     "name": "P地獄少女覚醒3000Ver.",
-    "machineId": "4297",
+    "machineId": "04297",
     "manufacturer": "藤商事",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7566,7 +7566,7 @@
   },
   {
     "name": "PA祭2",
-    "machineId": "4325",
+    "machineId": "04325",
     "manufacturer": "APS APS",
     "probability": "-",
     "machineTypeRaw": "デジパチ",
@@ -7583,7 +7583,7 @@
   },
   {
     "name": "PA戦国乙女レジェンドバトル ときめき89バージョン",
-    "machineId": "4316",
+    "machineId": "04316",
     "manufacturer": "アムテックス×ごらく",
     "probability": "1/89.8",
     "machineTypeRaw": "デジパチ",
@@ -7600,7 +7600,7 @@
   },
   {
     "name": "P宇宙戦艦ヤマト2202 -ONLY ONE- LIGHT Ver.",
-    "machineId": "4309",
+    "machineId": "04309",
     "manufacturer": "ビスティ",
     "probability": "1/89.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7617,7 +7617,7 @@
   },
   {
     "name": "P神・天才バカボン〜甘神SPEC〜",
-    "machineId": "4308",
+    "machineId": "04308",
     "manufacturer": "Daiichi",
     "probability": "1/129.77",
     "machineTypeRaw": "デジパチ",
@@ -7634,7 +7634,7 @@
   },
   {
     "name": "Pだるまっしゅ2 119ver.",
-    "machineId": "4306",
+    "machineId": "04306",
     "manufacturer": "ニューギン",
     "probability": "1/119.8",
     "machineTypeRaw": "デジパチ",
@@ -7651,7 +7651,7 @@
   },
   {
     "name": "P真速のガッチャマン",
-    "machineId": "4305",
+    "machineId": "04305",
     "manufacturer": "七匠",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7668,7 +7668,7 @@
   },
   {
     "name": "P大海物語5",
-    "machineId": "4293",
+    "machineId": "04293",
     "manufacturer": "三洋",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -7685,7 +7685,7 @@
   },
   {
     "name": "P真バジリスク～甲賀忍法帖～豪塊W319ver.",
-    "machineId": "4291",
+    "machineId": "04291",
     "manufacturer": "メーシー",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -7702,7 +7702,7 @@
   },
   {
     "name": "P真・北斗無双 第4章",
-    "machineId": "4286",
+    "machineId": "04286",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7719,7 +7719,7 @@
   },
   {
     "name": "Pフィーバーダンベル何キロ持てる？",
-    "machineId": "4285",
+    "machineId": "04285",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7736,7 +7736,7 @@
   },
   {
     "name": "P戦国乙女 LEGEND BATTLE 99ver.",
-    "machineId": "4269",
+    "machineId": "04269",
     "manufacturer": "アムテックス",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -7753,7 +7753,7 @@
   },
   {
     "name": "P牙狼GOLD IMPACT",
-    "machineId": "4295",
+    "machineId": "04295",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -7770,7 +7770,7 @@
   },
   {
     "name": "P桃剣閃撃 極",
-    "machineId": "4281",
+    "machineId": "04281",
     "manufacturer": "西陣",
     "probability": "1/319.69",
     "machineTypeRaw": "1種2種混合機",
@@ -7787,7 +7787,7 @@
   },
   {
     "name": "P真・花の慶次3 -黄金一閃-",
-    "machineId": "4261",
+    "machineId": "04261",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -7804,7 +7804,7 @@
   },
   {
     "name": "PA SUPER電役ナナシーSPECIAL66 Ver2.0",
-    "machineId": "4282",
+    "machineId": "04282",
     "manufacturer": "豊丸",
     "probability": "1/66.6",
     "machineTypeRaw": "デジパチ",
@@ -7821,7 +7821,7 @@
   },
   {
     "name": "PA緋弾のアリア～緋弾覚醒編～甘デジver. FRA",
-    "machineId": "4280",
+    "machineId": "04280",
     "manufacturer": "藤商事",
     "probability": "1/99",
     "machineTypeRaw": "1種2種混合機",
@@ -7838,7 +7838,7 @@
   },
   {
     "name": "PハイスクールD×D 真紅GCA",
-    "machineId": "4278",
+    "machineId": "04278",
     "manufacturer": "西陣",
     "probability": "1/99.90",
     "machineTypeRaw": "1種2種混合機",
@@ -7855,7 +7855,7 @@
   },
   {
     "name": "Pビッグドリーム3",
-    "machineId": "4276",
+    "machineId": "04276",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7872,7 +7872,7 @@
   },
   {
     "name": "Pシティーハンター 俺の心を震わせた日",
-    "machineId": "4271",
+    "machineId": "04271",
     "manufacturer": "アムテックス",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -7889,7 +7889,7 @@
   },
   {
     "name": "PAスーパー海物語 IN 沖縄5 夜桜超旋風 99ver.",
-    "machineId": "4270",
+    "machineId": "04270",
     "manufacturer": "三洋",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -7906,7 +7906,7 @@
   },
   {
     "name": "P大開王",
-    "machineId": "4262",
+    "machineId": "04262",
     "manufacturer": "ジェイビー",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -7923,7 +7923,7 @@
   },
   {
     "name": "P TIGER ＆ BUNNY ～完全無欠WILDスペック～",
-    "machineId": "4267",
+    "machineId": "04267",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -7940,7 +7940,7 @@
   },
   {
     "name": "Pゴッドイーター神がかりVer.",
-    "machineId": "4266",
+    "machineId": "04266",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -7957,7 +7957,7 @@
   },
   {
     "name": "Pゴジラ対エヴァンゲリオン〜G細胞覚醒〜",
-    "machineId": "4257",
+    "machineId": "04257",
     "manufacturer": "ビスティ",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -7974,7 +7974,7 @@
   },
   {
     "name": "PAコマコマ倶楽部 with 坂本冬美 ごらくバージョン",
-    "machineId": "4288",
+    "machineId": "04288",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -7991,7 +7991,7 @@
   },
   {
     "name": "Pネオモンスターハウス MXL",
-    "machineId": "4277",
+    "machineId": "04277",
     "manufacturer": "竹屋",
     "probability": "1/319.69",
     "machineTypeRaw": "デジパチ",
@@ -8008,7 +8008,7 @@
   },
   {
     "name": "Pダイナマイトキング～無敵SPEC～",
-    "machineId": "4274",
+    "machineId": "04274",
     "manufacturer": "Daiichi",
     "probability": "1/304.8",
     "machineTypeRaw": "デジパチ",
@@ -8025,7 +8025,7 @@
   },
   {
     "name": "ぱちんこ アズールレーン THE ANIMATION",
-    "machineId": "4273",
+    "machineId": "04273",
     "manufacturer": "京楽",
     "probability": "1/46.0",
     "machineTypeRaw": "デジパチ",
@@ -8042,7 +8042,7 @@
   },
   {
     "name": "Pもっとあぶない刑事",
-    "machineId": "4260",
+    "machineId": "04260",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -8059,7 +8059,7 @@
   },
   {
     "name": "P聖闘士星矢 超流星 女神ゴールドver.1500",
-    "machineId": "4251",
+    "machineId": "04251",
     "manufacturer": "三洋",
     "probability": "1/318.13",
     "machineTypeRaw": "1種2種混合機",
@@ -8076,7 +8076,7 @@
   },
   {
     "name": "P聖闘士星矢 超流星 星矢ゴールドver.92％",
-    "machineId": "4250",
+    "machineId": "04250",
     "manufacturer": "三洋",
     "probability": "1/318.13",
     "machineTypeRaw": "1種2種混合機",
@@ -8093,7 +8093,7 @@
   },
   {
     "name": "P銀河鉄道999 Next Journey",
-    "machineId": "4249",
+    "machineId": "04249",
     "manufacturer": "アムテックス",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -8110,7 +8110,7 @@
   },
   {
     "name": "PAゴールデン鳳凰∞Jr.99",
-    "machineId": "4265",
+    "machineId": "04265",
     "manufacturer": "マルホン",
     "probability": "1/98.7",
     "machineTypeRaw": "1種2種混合機",
@@ -8127,7 +8127,7 @@
   },
   {
     "name": "P華牌RRwith清水あいり ごらくバージョン",
-    "machineId": "4263",
+    "machineId": "04263",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -8144,7 +8144,7 @@
   },
   {
     "name": "PA獅子王Jr.99",
-    "machineId": "4256",
+    "machineId": "04256",
     "manufacturer": "マルホン",
     "probability": "1/98.7",
     "machineTypeRaw": "デジパチ",
@@ -8161,7 +8161,7 @@
   },
   {
     "name": "PバーストエンジェルEX 99Ver.",
-    "machineId": "4255",
+    "machineId": "04255",
     "manufacturer": "豊丸",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -8178,7 +8178,7 @@
   },
   {
     "name": "P10カウントチャージ絶狼 神撃135Ver.",
-    "machineId": "4248",
+    "machineId": "04248",
     "manufacturer": "サンセイR＆D",
     "probability": "1/135.96",
     "machineTypeRaw": "1種2種混合機",
@@ -8195,7 +8195,7 @@
   },
   {
     "name": "P新・遠山の金さん",
-    "machineId": "4245",
+    "machineId": "04245",
     "manufacturer": "JFJ",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -8212,7 +8212,7 @@
   },
   {
     "name": "P弾球黙示録カイジ5 ざわっ…Ver.",
-    "machineId": "4243",
+    "machineId": "04243",
     "manufacturer": "高尾",
     "probability": "1/89.7",
     "machineTypeRaw": "1種2種混合機",
@@ -8229,7 +8229,7 @@
   },
   {
     "name": "P七つの大罪2",
-    "machineId": "4240",
+    "machineId": "04240",
     "manufacturer": "サミー",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -8246,7 +8246,7 @@
   },
   {
     "name": "Pターミネーター2 TYPE7500",
-    "machineId": "4239",
+    "machineId": "04239",
     "manufacturer": "アムテックス",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -8263,7 +8263,7 @@
   },
   {
     "name": "P GO!GO!マリン超連撃BATTLE",
-    "machineId": "4238",
+    "machineId": "04238",
     "manufacturer": "サンスリー",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -8280,7 +8280,7 @@
   },
   {
     "name": "ぱちんこGⅠ優駿倶楽部2 超限界突破",
-    "machineId": "4235",
+    "machineId": "04235",
     "manufacturer": "コナミアミューズメント",
     "probability": "1/219.9",
     "machineTypeRaw": "1種2種混合機",
@@ -8297,7 +8297,7 @@
   },
   {
     "name": "Pワンパンマン",
-    "machineId": "4234",
+    "machineId": "04234",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -8314,7 +8314,7 @@
   },
   {
     "name": "PフィーバークィーンRUSH",
-    "machineId": "4231",
+    "machineId": "04231",
     "manufacturer": "ジェイビー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -8331,7 +8331,7 @@
   },
   {
     "name": "PモンキーターンⅥ超抜ZDa",
-    "machineId": "4227",
+    "machineId": "04227",
     "manufacturer": "西陣",
     "probability": "1/319.69",
     "machineTypeRaw": "1種2種混合機",
@@ -8348,7 +8348,7 @@
   },
   {
     "name": "P緋弾のアリア～緋弾覚醒編～319ver. JMZ",
-    "machineId": "4233",
+    "machineId": "04233",
     "manufacturer": "JFJ",
     "probability": "1/319",
     "machineTypeRaw": "1種2種混合機",
@@ -8365,7 +8365,7 @@
   },
   {
     "name": "ぱちんこ ウルトラマンティガ 1500×84",
-    "machineId": "4232",
+    "machineId": "04232",
     "manufacturer": "OK!!",
     "probability": "1/319.9",
     "machineTypeRaw": "1種2種混合機",
@@ -8382,7 +8382,7 @@
   },
   {
     "name": "P真・牙狼2",
-    "machineId": "4226",
+    "machineId": "04226",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -8399,7 +8399,7 @@
   },
   {
     "name": "Pルパン三世 消されたルパン2022",
-    "machineId": "4221",
+    "machineId": "04221",
     "manufacturer": "平和",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -8416,7 +8416,7 @@
   },
   {
     "name": "Pデビルマン疾風迅雷 129ver.",
-    "machineId": "4220",
+    "machineId": "04220",
     "manufacturer": "ニューギン",
     "probability": "1/129.77",
     "machineTypeRaw": "1種2種混合機",
@@ -8433,7 +8433,7 @@
   },
   {
     "name": "Pストライクウィッチーズ2 129ver.",
-    "machineId": "4219",
+    "machineId": "04219",
     "manufacturer": "三洋",
     "probability": "1/129.7",
     "machineTypeRaw": "1種2種混合機",
@@ -8450,7 +8450,7 @@
   },
   {
     "name": "PAフィーバーマクロスフロンティア4 88ver.",
-    "machineId": "4198",
+    "machineId": "04198",
     "manufacturer": "SANKYO",
     "probability": "1/88.8",
     "machineTypeRaw": "1種2種混合機",
@@ -8467,7 +8467,7 @@
   },
   {
     "name": "Pうしおととら～超獣SPEC～",
-    "machineId": "4197",
+    "machineId": "04197",
     "manufacturer": "D-light",
     "probability": "1/319.69",
     "machineTypeRaw": "1種2種混合機",
@@ -8484,7 +8484,7 @@
   },
   {
     "name": "P華牌RRwith清水あいり 150de遊タイム",
-    "machineId": "4206",
+    "machineId": "04206",
     "manufacturer": "豊丸",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -8501,7 +8501,7 @@
   },
   {
     "name": "P宇宙戦艦ヤマト2202 愛の戦士たち Light ver.",
-    "machineId": "4228",
+    "machineId": "04228",
     "manufacturer": "ビスティ",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -8518,7 +8518,7 @@
   },
   {
     "name": "ぱちんこキン肉マン3 キン肉星王位争奪編 特盛ミートくんver.",
-    "machineId": "4224",
+    "machineId": "04224",
     "manufacturer": "京楽",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -8535,7 +8535,7 @@
   },
   {
     "name": "P野生の王国 GO 199ver.",
-    "machineId": "4218",
+    "machineId": "04218",
     "manufacturer": "ニューギン",
     "probability": "1/199.80",
     "machineTypeRaw": "デジパチ",
@@ -8552,7 +8552,7 @@
   },
   {
     "name": "P犬夜叉2",
-    "machineId": "4214",
+    "machineId": "04214",
     "manufacturer": "D-light",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -8569,7 +8569,7 @@
   },
   {
     "name": "Pシンデレラブレイド",
-    "machineId": "4213",
+    "machineId": "04213",
     "manufacturer": "JFJ JFJ",
     "probability": "1/141.1",
     "machineTypeRaw": "1種2種混合機",
@@ -8586,7 +8586,7 @@
   },
   {
     "name": "P銭形平次3 DENKOUSEKKA 平次Ver.",
-    "machineId": "4208",
+    "machineId": "04208",
     "manufacturer": "高尾",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -8603,7 +8603,7 @@
   },
   {
     "name": "P牙狼MUSEUM",
-    "machineId": "4207",
+    "machineId": "04207",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -8620,7 +8620,7 @@
   },
   {
     "name": "Pバジリスク 〜桜花忍法帖〜早咲き桜99ver.",
-    "machineId": "4204",
+    "machineId": "04204",
     "manufacturer": "メーシー",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -8637,7 +8637,7 @@
   },
   {
     "name": "PA元祖大工の源さん2",
-    "machineId": "4200",
+    "machineId": "04200",
     "manufacturer": "三洋",
     "probability": "1/89.8",
     "machineTypeRaw": "デジパチ",
@@ -8654,7 +8654,7 @@
   },
   {
     "name": "Pフィーバー戦姫絶唱シンフォギア3黄金絶唱",
-    "machineId": "4195",
+    "machineId": "04195",
     "manufacturer": "SANKYO",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -8671,7 +8671,7 @@
   },
   {
     "name": "Pモモキュンソード閃撃GCA",
-    "machineId": "4187",
+    "machineId": "04187",
     "manufacturer": "西陣",
     "probability": "1/99.90",
     "machineTypeRaw": "1種2種混合機",
@@ -8688,7 +8688,7 @@
   },
   {
     "name": "Pひぐらしのなく頃に〜蕾〜",
-    "machineId": "4216",
+    "machineId": "04216",
     "manufacturer": "Daiichi",
     "probability": "1/129.77",
     "machineTypeRaw": "1種2種混合機",
@@ -8705,7 +8705,7 @@
   },
   {
     "name": "P刀使ノ巫女 GCAa［甘デジver.］",
-    "machineId": "4185",
+    "machineId": "04185",
     "manufacturer": "西陣",
     "probability": "1/99.90",
     "machineTypeRaw": "1種2種混合機",
@@ -8722,7 +8722,7 @@
   },
   {
     "name": "P刀使ノ巫女 ZCa［319ver.］",
-    "machineId": "4184",
+    "machineId": "04184",
     "manufacturer": "西陣",
     "probability": "1/319.69",
     "machineTypeRaw": "1種2種混合機",
@@ -8739,7 +8739,7 @@
   },
   {
     "name": "PA新海物語",
-    "machineId": "4177",
+    "machineId": "04177",
     "manufacturer": "三洋",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -8756,7 +8756,7 @@
   },
   {
     "name": "Pフィーバーからくりサーカス",
-    "machineId": "4170",
+    "machineId": "04170",
     "manufacturer": "SANKYO",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -8773,7 +8773,7 @@
   },
   {
     "name": "P真・怪獣王ゴジラ2",
-    "machineId": "4199",
+    "machineId": "04199",
     "manufacturer": "ニューギン",
     "probability": "1/319.68",
     "machineTypeRaw": "デジパチ",
@@ -8790,7 +8790,7 @@
   },
   {
     "name": "ぱちんこ GANTZ:3 LAST BATTLE",
-    "machineId": "4194",
+    "machineId": "04194",
     "manufacturer": "OK!! OK!!",
     "probability": "1/319.9",
     "machineTypeRaw": "デジパチ",
@@ -8807,7 +8807,7 @@
   },
   {
     "name": "Pサラリーマン金太郎",
-    "machineId": "4190",
+    "machineId": "04190",
     "manufacturer": "藤商事",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -8824,7 +8824,7 @@
   },
   {
     "name": "P激デジ真・牙狼",
-    "machineId": "4189",
+    "machineId": "04189",
     "manufacturer": "サンセイR＆D サンセイR＆D",
     "probability": "1/77.74",
     "machineTypeRaw": "デジパチ",
@@ -8841,7 +8841,7 @@
   },
   {
     "name": "P黄門ちゃま 神盛2",
-    "machineId": "4186",
+    "machineId": "04186",
     "manufacturer": "平和",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -8858,7 +8858,7 @@
   },
   {
     "name": "P ANOTHER WILD RODEO～スギちゃんっス～",
-    "machineId": "4180",
+    "machineId": "04180",
     "manufacturer": "豊丸",
     "probability": "1/38.7",
     "machineTypeRaw": "デジパチ",
@@ -8875,7 +8875,7 @@
   },
   {
     "name": "Pモンスターハンターダブルクロス 連続狩猟ver.",
-    "machineId": "4172",
+    "machineId": "04172",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -8892,7 +8892,7 @@
   },
   {
     "name": "PAアニマルマンション GO",
-    "machineId": "4168",
+    "machineId": "04168",
     "manufacturer": "豊丸×ごらく 豊丸×ごらく",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -8909,7 +8909,7 @@
   },
   {
     "name": "Pあっぱれ！夏物語 ドカン!!と一発7000Ver.",
-    "machineId": "4165",
+    "machineId": "04165",
     "manufacturer": "高尾",
     "probability": "1/27.3",
     "machineTypeRaw": "デジパチ",
@@ -8926,7 +8926,7 @@
   },
   {
     "name": "P宇宙戦艦ヤマト2202 -ONLY ONE-",
-    "machineId": "4179",
+    "machineId": "04179",
     "manufacturer": "ビスティ",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -8943,7 +8943,7 @@
   },
   {
     "name": "P結城友奈は勇者であるALLRUSH GCAa",
-    "machineId": "4176",
+    "machineId": "04176",
     "manufacturer": "西陣",
     "probability": "1/77.74",
     "machineTypeRaw": "1種2種混合機",
@@ -8960,7 +8960,7 @@
   },
   {
     "name": "Pゴールデン鳳凰∞",
-    "machineId": "4175",
+    "machineId": "04175",
     "manufacturer": "マルホン",
     "probability": "1/312.5",
     "machineTypeRaw": "1種2種混合機",
@@ -8977,7 +8977,7 @@
   },
   {
     "name": "Pルパン三世～復活のマモー～ 甘デジ",
-    "machineId": "4159",
+    "machineId": "04159",
     "manufacturer": "平和",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -8994,7 +8994,7 @@
   },
   {
     "name": "Pスーパー海物語 IN 沖縄5 夜桜超旋風",
-    "machineId": "4142",
+    "machineId": "04142",
     "manufacturer": "三洋",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -9011,7 +9011,7 @@
   },
   {
     "name": "P世界でいちばん強くなりたい！ W悶STAR Ver",
-    "machineId": "4169",
+    "machineId": "04169",
     "manufacturer": "サンセイR＆D",
     "probability": "1/119.80",
     "machineTypeRaw": "1種2種混合機",
@@ -9028,7 +9028,7 @@
   },
   {
     "name": "PAビビッドレッドオペレーション Sweetもも99ver.",
-    "machineId": "4167",
+    "machineId": "04167",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -9045,7 +9045,7 @@
   },
   {
     "name": "Pだるまっしゅ2",
-    "machineId": "4166",
+    "machineId": "04166",
     "manufacturer": "ニューギン",
     "probability": "1/225.98",
     "machineTypeRaw": "デジパチ",
@@ -9062,7 +9062,7 @@
   },
   {
     "name": "P戦国乙女 LEGEND BATTLE",
-    "machineId": "4158",
+    "machineId": "04158",
     "manufacturer": "アムテックス",
     "probability": "1/222.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9079,7 +9079,7 @@
   },
   {
     "name": "P真・一騎当千",
-    "machineId": "4152",
+    "machineId": "04152",
     "manufacturer": "Daiichi",
     "probability": "1/319.7",
     "machineTypeRaw": "1種2種混合機",
@@ -9096,7 +9096,7 @@
   },
   {
     "name": "P真シャカRUSH Jr. 遊タイムなしver.",
-    "machineId": "4181",
+    "machineId": "04181",
     "manufacturer": "マルホン",
     "probability": "1/117.2",
     "machineTypeRaw": "1種2種混合機",
@@ -9113,7 +9113,7 @@
   },
   {
     "name": "P真シャカRUSH Jr.",
-    "machineId": "4174",
+    "machineId": "04174",
     "manufacturer": "マルホン",
     "probability": "1/117.2",
     "machineTypeRaw": "1種2種混合機",
@@ -9130,7 +9130,7 @@
   },
   {
     "name": "Pめぞん一刻～Wedding Story～ 甘デジ",
-    "machineId": "4149",
+    "machineId": "04149",
     "manufacturer": "アムテックス",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -9147,7 +9147,7 @@
   },
   {
     "name": "Pリアル鬼ごっこ2 全力疾走チャージ王様Ver.",
-    "machineId": "4161",
+    "machineId": "04161",
     "manufacturer": "高尾",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9164,7 +9164,7 @@
   },
   {
     "name": "Pジューシーハニー3 てんこ盛り連写RUSH",
-    "machineId": "4155",
+    "machineId": "04155",
     "manufacturer": "サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -9181,7 +9181,7 @@
   },
   {
     "name": "PストリートファイターⅤ",
-    "machineId": "4153",
+    "machineId": "04153",
     "manufacturer": "藤商事",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -9198,7 +9198,7 @@
   },
   {
     "name": "Pあぶない刑事 129ver.",
-    "machineId": "4151",
+    "machineId": "04151",
     "manufacturer": "ニューギン",
     "probability": "1/129.77",
     "machineTypeRaw": "デジパチ",
@@ -9215,7 +9215,7 @@
   },
   {
     "name": "P麻雀物語4",
-    "machineId": "4148",
+    "machineId": "04148",
     "manufacturer": "平和",
     "probability": "1/219.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9232,7 +9232,7 @@
   },
   {
     "name": "デジハネPA火曜サスペンス劇場 最後の推理",
-    "machineId": "4147",
+    "machineId": "04147",
     "manufacturer": "サミー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -9249,7 +9249,7 @@
   },
   {
     "name": "Pコマコマ倶楽部 with 坂本冬美 199ver.",
-    "machineId": "4144",
+    "machineId": "04144",
     "manufacturer": "豊丸",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -9266,7 +9266,7 @@
   },
   {
     "name": "PAコマコマ倶楽部 with 坂本冬美 99ver.",
-    "machineId": "4143",
+    "machineId": "04143",
     "manufacturer": "豊丸",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -9283,7 +9283,7 @@
   },
   {
     "name": "P真バジリスク～甲賀忍法帖～",
-    "machineId": "4141",
+    "machineId": "04141",
     "manufacturer": "メーシー",
     "probability": "1/199.80",
     "machineTypeRaw": "1種2種混合機",
@@ -9300,7 +9300,7 @@
   },
   {
     "name": "P中森明菜・歌姫伝説～THE BEST LEGEND～199ver",
-    "machineId": "4138",
+    "machineId": "04138",
     "manufacturer": "D-light",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -9317,7 +9317,7 @@
   },
   {
     "name": "Pフィーバー蒼穹のファフナー3 EXODUS 超蒼穹3800ver.",
-    "machineId": "4136",
+    "machineId": "04136",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -9334,7 +9334,7 @@
   },
   {
     "name": "Pらんま1/2 熱血格闘遊戯 99Ver.",
-    "machineId": "4139",
+    "machineId": "04139",
     "manufacturer": "高尾",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9351,7 +9351,7 @@
   },
   {
     "name": "Pキャプテン翼 若林甘えんなよ！Ver.",
-    "machineId": "4135",
+    "machineId": "04135",
     "manufacturer": "サンセイR＆D",
     "probability": "1/99.90",
     "machineTypeRaw": "1種2種混合機",
@@ -9368,7 +9368,7 @@
   },
   {
     "name": "PA真・暴れん坊将軍 99Ver.",
-    "machineId": "4133",
+    "machineId": "04133",
     "manufacturer": "藤商事",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9385,7 +9385,7 @@
   },
   {
     "name": "Pはぐれ刑事純情派",
-    "machineId": "4130",
+    "machineId": "04130",
     "manufacturer": "ニューギン",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -9402,7 +9402,7 @@
   },
   {
     "name": "Pフィーバーダンジョンに出会いを求めるのは間違っているだろうか",
-    "machineId": "4126",
+    "machineId": "04126",
     "manufacturer": "SANKYO",
     "probability": "1/319.7",
     "machineTypeRaw": "デジパチ",
@@ -9419,7 +9419,7 @@
   },
   {
     "name": "P頭文字D",
-    "machineId": "4124",
+    "machineId": "04124",
     "manufacturer": "サミー",
     "probability": "1/256.0",
     "machineTypeRaw": "デジパチ",
@@ -9436,7 +9436,7 @@
   },
   {
     "name": "P元祖ギンギラパラダイス",
-    "machineId": "4123",
+    "machineId": "04123",
     "manufacturer": "サンスリー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9453,7 +9453,7 @@
   },
   {
     "name": "Pミリオンゴッド-一撃-",
-    "machineId": "4121",
+    "machineId": "04121",
     "manufacturer": "ミズホ ミズホ",
     "probability": "1/5",
     "machineTypeRaw": "1種2種混合機",
@@ -9470,7 +9470,7 @@
   },
   {
     "name": "Pフィーバー アイドルマスター ミリオンライブ！ Light ver.",
-    "machineId": "4110",
+    "machineId": "04110",
     "manufacturer": "SANKYO",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9487,7 +9487,7 @@
   },
   {
     "name": "P牙狼 月虹ノ旅人 58％の衝撃Ver.",
-    "machineId": "4154",
+    "machineId": "04154",
     "manufacturer": "サンセイR＆D サンセイR＆D",
     "probability": "1/319.68",
     "machineTypeRaw": "1種2種混合機",
@@ -9504,7 +9504,7 @@
   },
   {
     "name": "P獅子王",
-    "machineId": "4118",
+    "machineId": "04118",
     "manufacturer": "マルホン",
     "probability": "1/220.6",
     "machineTypeRaw": "デジパチ",
@@ -9521,7 +9521,7 @@
   },
   {
     "name": "P結城友奈は勇者であるALLRUSH",
-    "machineId": "4115",
+    "machineId": "04115",
     "manufacturer": "西陣",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9538,7 +9538,7 @@
   },
   {
     "name": "デジハネP蒼天の拳 双龍",
-    "machineId": "4112",
+    "machineId": "04112",
     "manufacturer": "サミー",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -9555,7 +9555,7 @@
   },
   {
     "name": "Pフィーバー アイドルマスター ミリオンライブ！ 39フェスver.",
-    "machineId": "4109",
+    "machineId": "04109",
     "manufacturer": "SANKYO",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9572,7 +9572,7 @@
   },
   {
     "name": "P一球魂GOLDピラミッ伝",
-    "machineId": "4106",
+    "machineId": "04106",
     "manufacturer": "高尾",
     "probability": "1/179.5",
     "machineTypeRaw": "1種2種混合機",
@@ -9589,7 +9589,7 @@
   },
   {
     "name": "ぱちんこ 仮面ライダー 闇のライダーver.",
-    "machineId": "4125",
+    "machineId": "04125",
     "manufacturer": "京楽",
     "probability": "1/319.6",
     "machineTypeRaw": "デジパチ",
@@ -9606,7 +9606,7 @@
   },
   {
     "name": "PA巨人の星 明子2000Ver.",
-    "machineId": "4113",
+    "machineId": "04113",
     "manufacturer": "サンセイR＆D",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9623,7 +9623,7 @@
   },
   {
     "name": "Pアレジン プレミアム",
-    "machineId": "4111",
+    "machineId": "04111",
     "manufacturer": "藤商事",
     "probability": "1/319",
     "machineTypeRaw": "1種2種混合機",
@@ -9640,7 +9640,7 @@
   },
   {
     "name": "P花満開 月光 THE FINAL GCA",
-    "machineId": "4103",
+    "machineId": "04103",
     "manufacturer": "西陣",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -9657,7 +9657,7 @@
   },
   {
     "name": "PA真・花の慶次2〜漆黒の衝撃 99ver.",
-    "machineId": "4094",
+    "machineId": "04094",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -9674,7 +9674,7 @@
   },
   {
     "name": "P大工の源さん 超韋駄天 BLACK",
-    "machineId": "4077",
+    "machineId": "04077",
     "manufacturer": "三洋",
     "probability": "1/318.13",
     "machineTypeRaw": "1種2種混合機",
@@ -9691,7 +9691,7 @@
   },
   {
     "name": "PA激デジ 笑ゥせぇるすまん最後の忠告",
-    "machineId": "4104",
+    "machineId": "04104",
     "manufacturer": "サンセイR＆D",
     "probability": "1/77.74",
     "machineTypeRaw": "デジパチ",
@@ -9708,7 +9708,7 @@
   },
   {
     "name": "Pどないやねん",
-    "machineId": "4091",
+    "machineId": "04091",
     "manufacturer": "藤商事",
     "probability": "1/39.9",
     "machineTypeRaw": "デジパチ",
@@ -9725,7 +9725,7 @@
   },
   {
     "name": "ぱちんこ戦国コレクションBLACK",
-    "machineId": "4086",
+    "machineId": "04086",
     "manufacturer": "コナミアミューズメント",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -9742,7 +9742,7 @@
   },
   {
     "name": "Pコードギアス 反逆のルルーシュ Light ver.",
-    "machineId": "4108",
+    "machineId": "04108",
     "manufacturer": "ビスティ",
     "probability": "1/89.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9759,7 +9759,7 @@
   },
   {
     "name": "ぱちんこキン肉マン3 キン肉星王位争奪編 友情シルバー",
-    "machineId": "4102",
+    "machineId": "04102",
     "manufacturer": "京楽",
     "probability": "1/229.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9776,7 +9776,7 @@
   },
   {
     "name": "ぱちんこキン肉マン3 キン肉星王位争奪編 火事場ゴールド",
-    "machineId": "4101",
+    "machineId": "04101",
     "manufacturer": "京楽",
     "probability": "1/319.6",
     "machineTypeRaw": "1種2種混合機",
@@ -9793,7 +9793,7 @@
   },
   {
     "name": "P満開まつり GO1",
-    "machineId": "4099",
+    "machineId": "04099",
     "manufacturer": "豊丸×ごらく",
     "probability": "1/199.8",
     "machineTypeRaw": "デジパチ",
@@ -9810,7 +9810,7 @@
   },
   {
     "name": "P野生の王国どらむサファリS-K1 YT470",
-    "machineId": "4096",
+    "machineId": "04096",
     "manufacturer": "ニューギン",
     "probability": "1/159.84",
     "machineTypeRaw": "デジパチ",
@@ -9827,7 +9827,7 @@
   },
   {
     "name": "PA野生の王国どらむサファリN-K1 YT299",
-    "machineId": "4095",
+    "machineId": "04095",
     "manufacturer": "ニューギン",
     "probability": "1/99.90",
     "machineTypeRaw": "デジパチ",
@@ -9844,7 +9844,7 @@
   },
   {
     "name": "Cの衝撃!! P弾球黙示録カイジ5 電撃チャージ和也Ver.",
-    "machineId": "4090",
+    "machineId": "04090",
     "manufacturer": "高尾",
     "probability": "1/159.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9861,7 +9861,7 @@
   },
   {
     "name": "P真・北斗無双 第3章 ジャギの逆襲",
-    "machineId": "4088",
+    "machineId": "04088",
     "manufacturer": "サミー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9878,7 +9878,7 @@
   },
   {
     "name": "PハイスクールD×D 真紅",
-    "machineId": "4087",
+    "machineId": "04087",
     "manufacturer": "西陣",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9895,7 +9895,7 @@
   },
   {
     "name": "PAナムココレクション2 スイートゲームver.",
-    "machineId": "4082",
+    "machineId": "04082",
     "manufacturer": "メーシー",
     "probability": "1/99.9",
     "machineTypeRaw": "1種2種混合機",
@@ -9912,7 +9912,7 @@
   },
   {
     "name": "Pナムココレクション2",
-    "machineId": "4081",
+    "machineId": "04081",
     "manufacturer": "メーシー",
     "probability": "1/199.8",
     "machineTypeRaw": "1種2種混合機",
@@ -9929,7 +9929,7 @@
   },
   {
     "name": "Pストライクウィッチーズ2",
-    "machineId": "4078",
+    "machineId": "04078",
     "manufacturer": "三洋",
     "probability": "1/229.1",
     "machineTypeRaw": "1種2種混合機",
@@ -9946,7 +9946,7 @@
   },
   {
     "name": "P新鬼武者 DAWN OF DREAMS 甘デジ",
-    "machineId": "4076",
+    "machineId": "04076",
     "manufacturer": "平和",
     "probability": "1/99.9",
     "machineTypeRaw": "デジパチ",
@@ -9963,7 +9963,7 @@
   },
   {
     "name": "Pとある魔術の禁書目録 Light PREMIUM ver.",
-    "machineId": "4069",
+    "machineId": "04069",
     "manufacturer": "JFJ",
     "probability": "1/129.7",
     "machineTypeRaw": "デジパチ",
