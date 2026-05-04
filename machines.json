@@ -1,5 +1,141 @@
 [
   {
+    "name": "e 化物語 鬼99ver.",
+    "machineId": "04987",
+    "manufacturer": "サミー",
+    "probability": "1/99.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e冥妃転生",
+    "machineId": "04997",
+    "manufacturer": "メーシー",
+    "probability": "1/199.8",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e 学園黙示録ハイスクール・オブ・ザ・デッド3",
+    "machineId": "04998",
+    "manufacturer": "高尾",
+    "probability": "1/299.2",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "PAスーパー海物語IN沖縄6 Withえなこ",
+    "machineId": "05001",
+    "manufacturer": "三洋",
+    "probability": "1/99.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eフィーバー デッドマウント・デスプレイ 魂神9000",
+    "machineId": "05013",
+    "manufacturer": "SANKYO",
+    "probability": "1/349.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "遊moreLT PエガブレイブVVV",
+    "machineId": "05018",
+    "manufacturer": "豊丸",
+    "probability": "",
+    "machineTypeRaw": "羽根モノ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+    "machineId": "05021",
+    "manufacturer": "大都技研",
+    "probability": "1/319.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "P 犬夜叉3.0 大入り 甘SPEC",
+    "machineId": "05014",
+    "manufacturer": "D-light",
+    "probability": "",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/05/25",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
     "name": "e ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜",
     "machineId": "05008",
     "manufacturer": "京楽",
@@ -37,7 +173,7 @@
     "name": "デカスタP戦国無双100ver.",
     "machineId": "05007",
     "manufacturer": "ニューギン",
-    "probability": "",
+    "probability": "1/100.98",
     "machineTypeRaw": "デジパチ",
     "introductionDateRaw": "2026/05/11",
     "status": "完了",

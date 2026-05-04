@@ -1,6 +1,14 @@
 row_no,machine_id,status,reason,detail
-18,04990,skipped,duplicate_machine_id,duplicate_machine_id
-220,04691,skipped,duplicate_machine_id,duplicate_machine_id
+26,04990,skipped,duplicate_machine_id,duplicate_machine_id
+228,04691,skipped,duplicate_machine_id,duplicate_machine_id
+0,04987,exported,,
+0,04997,exported,,
+0,04998,exported,,
+0,05001,exported,,
+0,05013,exported,,
+0,05018,exported,,
+0,05021,exported,,
+0,05014,exported,,
 0,05008,exported,,
 0,05003,exported,,
 0,05007,exported,,
