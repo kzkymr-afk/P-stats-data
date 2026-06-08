@@ -1,5 +1,260 @@
 [
   {
+    "name": "ぱちんこ 必殺仕事人Ⅵ",
+    "machineId": "05011",
+    "manufacturer": "京楽",
+    "probability": "1/319.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "P入るんスタート×織田信奈の野望",
+    "machineId": "05012",
+    "manufacturer": "高尾",
+    "probability": "1/249.1",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e魔法少女リリカルなのは",
+    "machineId": "05017",
+    "manufacturer": "サンスリー",
+    "probability": "1/348.5",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e 東京リベンジャーズ 聖夜決戦編",
+    "machineId": "05026",
+    "manufacturer": "サミー",
+    "probability": "1/199.8",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eガールズ＆パンツァー 最終章 159ver.",
+    "machineId": "05032",
+    "manufacturer": "平和",
+    "probability": "1/159.8",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eフィーバーブルーロック LIGHTver.",
+    "machineId": "05035",
+    "manufacturer": "SANKYO",
+    "probability": "1/120.1",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "Pフィーバーブルーロック LIGHTver.",
+    "machineId": "05036",
+    "manufacturer": "SANKYO",
+    "probability": "1/120.1",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e虚構推理",
+    "machineId": "05039",
+    "manufacturer": "D-light",
+    "probability": "",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e結城友奈は勇者である〜極限7500〜",
+    "machineId": "05040",
+    "manufacturer": "サンセイR＆D",
+    "probability": "1/349",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eワールドダイスター",
+    "machineId": "05041",
+    "manufacturer": "大都技研",
+    "probability": "1/159.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e一方通行 最狂",
+    "machineId": "05044",
+    "manufacturer": "オレンジ",
+    "probability": "",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "P 魔法少女まどか☆マギカ3 キュゥべえver.",
+    "machineId": "05022",
+    "manufacturer": "京楽",
+    "probability": "1/99.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "PA花の慶次〜傾奇一転 87ver.",
+    "machineId": "05023",
+    "manufacturer": "ニューギン",
+    "probability": "1/87.84",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e 東京喰種 超デカ超一撃ver.",
+    "machineId": "05024",
+    "manufacturer": "ビスティ",
+    "probability": "1/999",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/08",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "PシャカRUSH Z Jr.",
+    "machineId": "05037",
+    "manufacturer": "マルホン",
+    "probability": "1/98.7",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/06/22",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
     "name": "e 化物語 鬼99ver.",
     "machineId": "04987",
     "manufacturer": "サミー",

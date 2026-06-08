@@ -1,5 +1,140 @@
 [
   {
+    "machine_id": "05011",
+    "name": "ぱちんこ 必殺仕事人Ⅵ",
+    "manufacturer": "京楽",
+    "probability": "1/319.9",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05012",
+    "name": "P入るんスタート×織田信奈の野望",
+    "manufacturer": "高尾",
+    "probability": "1/249.1",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05017",
+    "name": "e魔法少女リリカルなのは",
+    "manufacturer": "サンスリー",
+    "probability": "1/348.5",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05026",
+    "name": "e 東京リベンジャーズ 聖夜決戦編",
+    "manufacturer": "サミー",
+    "probability": "1/199.8",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05032",
+    "name": "eガールズ＆パンツァー 最終章 159ver.",
+    "manufacturer": "平和",
+    "probability": "1/159.8",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05035",
+    "name": "eフィーバーブルーロック LIGHTver.",
+    "manufacturer": "SANKYO",
+    "probability": "1/120.1",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05036",
+    "name": "Pフィーバーブルーロック LIGHTver.",
+    "manufacturer": "SANKYO",
+    "probability": "1/120.1",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05039",
+    "name": "e虚構推理",
+    "manufacturer": "D-light",
+    "probability": "",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05040",
+    "name": "e結城友奈は勇者である〜極限7500〜",
+    "manufacturer": "サンセイR＆D",
+    "probability": "1/349",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05041",
+    "name": "eワールドダイスター",
+    "manufacturer": "大都技研",
+    "probability": "1/159.9",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05044",
+    "name": "e一方通行 最狂",
+    "manufacturer": "オレンジ",
+    "probability": "",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05022",
+    "name": "P 魔法少女まどか☆マギカ3 キュゥべえver.",
+    "manufacturer": "京楽",
+    "probability": "1/99.9",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/06/08",
+    "status": ""
+  },
+  {
+    "machine_id": "05023",
+    "name": "PA花の慶次〜傾奇一転 87ver.",
+    "manufacturer": "ニューギン",
+    "probability": "1/87.84",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/06/08",
+    "status": ""
+  },
+  {
+    "machine_id": "05024",
+    "name": "e 東京喰種 超デカ超一撃ver.",
+    "manufacturer": "ビスティ",
+    "probability": "1/999",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/06/08",
+    "status": ""
+  },
+  {
+    "machine_id": "05037",
+    "name": "PシャカRUSH Z Jr.",
+    "manufacturer": "マルホン",
+    "probability": "1/98.7",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/06/22",
+    "status": ""
+  },
+  {
     "machine_id": "04987",
     "name": "e 化物語 鬼99ver.",
     "manufacturer": "サミー",
