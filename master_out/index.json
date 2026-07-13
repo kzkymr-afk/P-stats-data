@@ -1,5 +1,86 @@
 [
   {
+    "machine_id": "05034",
+    "name": "e ソードアート・オンライン アリシゼーション 夜空",
+    "manufacturer": "京楽",
+    "probability": "1/199.9",
+    "machine_type": "デジパチ",
+    "intro_start": "",
+    "status": ""
+  },
+  {
+    "machine_id": "05045",
+    "name": "eフィーバー機動戦士ガンダムSEED クライマックス",
+    "manufacturer": "SANKYO",
+    "probability": "1/399.9",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/08/03",
+    "status": ""
+  },
+  {
+    "machine_id": "05051",
+    "name": "eアクセル・ワールド",
+    "manufacturer": "ニューギン",
+    "probability": "1/184.6",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/08/03",
+    "status": ""
+  },
+  {
+    "machine_id": "05056",
+    "name": "e 七つの大罪3",
+    "manufacturer": "サミー",
+    "probability": "1/319.6",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/08/03",
+    "status": ""
+  },
+  {
+    "machine_id": "05062",
+    "name": "eぱちんこ押忍！番長 漢の頂 99ver.",
+    "manufacturer": "大都技研",
+    "probability": "1/99.9",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/08/03",
+    "status": ""
+  },
+  {
+    "machine_id": "05063",
+    "name": "Pぱちんこ押忍！番長 漢の頂 99ver.",
+    "manufacturer": "大都技研",
+    "probability": "1/99.9",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/08/03",
+    "status": ""
+  },
+  {
+    "machine_id": "05060",
+    "name": "eゾン100〜ゾンビになるまでにしたい100のこと〜",
+    "manufacturer": "サンセイR＆D",
+    "probability": "1/199.5",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/08/17",
+    "status": ""
+  },
+  {
+    "machine_id": "05046",
+    "name": "e 無職転生 ～異世界行ったら本気だす～",
+    "manufacturer": "ニューギン",
+    "probability": "1/399.6",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/06",
+    "status": ""
+  },
+  {
+    "machine_id": "05052",
+    "name": "デカスタeベルセルク無双第2章 10連撃Ver.",
+    "manufacturer": "ニューギン",
+    "probability": "1/299.25",
+    "machine_type": "デジパチ",
+    "intro_start": "2026/07/21",
+    "status": ""
+  },
+  {
     "machine_id": "05011",
     "name": "ぱちんこ 必殺仕事人Ⅵ",
     "manufacturer": "京楽",
@@ -66,7 +147,7 @@
     "machine_id": "05039",
     "name": "e虚構推理",
     "manufacturer": "D-light",
-    "probability": "",
+    "probability": "1/319",
     "machine_type": "デジパチ",
     "intro_start": "2026/07/06",
     "status": ""
@@ -93,7 +174,7 @@
     "machine_id": "05044",
     "name": "e一方通行 最狂",
     "manufacturer": "オレンジ",
-    "probability": "",
+    "probability": "1/253",
     "machine_type": "デジパチ",
     "intro_start": "2026/07/06",
     "status": ""

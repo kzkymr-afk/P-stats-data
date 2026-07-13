@@ -1,5 +1,158 @@
 [
   {
+    "name": "e ソードアート・オンライン アリシゼーション 夜空",
+    "machineId": "05034",
+    "manufacturer": "京楽",
+    "probability": "1/199.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eフィーバー機動戦士ガンダムSEED クライマックス",
+    "machineId": "05045",
+    "manufacturer": "SANKYO",
+    "probability": "1/399.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/08/03",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eアクセル・ワールド",
+    "machineId": "05051",
+    "manufacturer": "ニューギン",
+    "probability": "1/184.6",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/08/03",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e 七つの大罪3",
+    "machineId": "05056",
+    "manufacturer": "サミー",
+    "probability": "1/319.6",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/08/03",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eぱちんこ押忍！番長 漢の頂 99ver.",
+    "machineId": "05062",
+    "manufacturer": "大都技研",
+    "probability": "1/99.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/08/03",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "Pぱちんこ押忍！番長 漢の頂 99ver.",
+    "machineId": "05063",
+    "manufacturer": "大都技研",
+    "probability": "1/99.9",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/08/03",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "eゾン100〜ゾンビになるまでにしたい100のこと〜",
+    "machineId": "05060",
+    "manufacturer": "サンセイR＆D",
+    "probability": "1/199.5",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/08/17",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "e 無職転生 ～異世界行ったら本気だす～",
+    "machineId": "05046",
+    "manufacturer": "ニューギン",
+    "probability": "1/399.6",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/06",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
+    "name": "デカスタeベルセルク無双第2章 10連撃Ver.",
+    "machineId": "05052",
+    "manufacturer": "ニューギン",
+    "probability": "1/299.25",
+    "machineTypeRaw": "デジパチ",
+    "introductionDateRaw": "2026/07/21",
+    "status": "完了",
+    "defaultPrize": 1500,
+    "countPerRound": 10,
+    "prizeEntries": [
+      {
+        "label": "1500玉",
+        "balls": 1500
+      }
+    ]
+  },
+  {
     "name": "ぱちんこ 必殺仕事人Ⅵ",
     "machineId": "05011",
     "manufacturer": "京楽",
@@ -122,7 +275,7 @@
     "name": "e虚構推理",
     "machineId": "05039",
     "manufacturer": "D-light",
-    "probability": "",
+    "probability": "1/319",
     "machineTypeRaw": "デジパチ",
     "introductionDateRaw": "2026/07/06",
     "status": "完了",
@@ -173,7 +326,7 @@
     "name": "e一方通行 最狂",
     "machineId": "05044",
     "manufacturer": "オレンジ",
-    "probability": "",
+    "probability": "1/253",
     "machineTypeRaw": "デジパチ",
     "introductionDateRaw": "2026/07/06",
     "status": "完了",
